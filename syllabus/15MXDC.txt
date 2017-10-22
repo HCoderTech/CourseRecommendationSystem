@@ -1,0 +1,14 @@
+<br/><b>IMPORTANCE OF GREEN IT:</b><br/> The growing significance of Green IT and Green data centers -All basic steps towards Green IT -The Basics of Green IT.                                                                                                                                                                                 (4)
+<br/>
+<br/><b>COLLABORATION FOR GREEN IT:</b><br/>  The government’s role - Regulation and EPA activity - Regulating greenhouse gases - Role of the EPA - IT company support of government regulation - Educational institutions and government regulation.                                (12)
+<br/>
+<br/><b>MAGIC OF INCENTIVE:</b><br/> - The role of electric utilities - A most significant step –Virtualizing  IT systems<br/>
+<br/><b>METRICS AND STANDARDS:</b><br/> Need for standard IT Energy - Use metrics<br/>
+<br/><b>CASE STUDIES:</b><br/>Web, Temporal and Spatial Data Mining Green IT Case Studies For Energy Utilities -Green IT case studies for universities and a large company - Worldwide green IT -  Case studies - The future of green IT for corporations.                            (11)
+<br/>
+<br/>Total L : 45 
+<br/>
+<br/><b>REFERENCES:</b><br/>
+<br/>1.	John Lamb, “The Greening of IT-How Companies can make a difference for the environment”, IBM Press, 2009.
+<br/>2.	Frederic P Miller,  Agnes F Vandome and John McBrewster, “Green Computing”, Alpha Script Publishing, 2006. 
+<br/><br/>

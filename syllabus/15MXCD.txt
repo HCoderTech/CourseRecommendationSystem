@@ -1,0 +1,19 @@
+<br/><b>INTRODUCTION:</b><br/> Bioinformatics - Classification of biological databases- Biological data formats - Application of bioinformatics in various fields.      											             (5)
+<br/>
+<br/><b>BASICS:</b><br/> Single letter code of amino acids -Symbols used in nucleotides.Gateway to Archives<br/>
+<br/><b>SEQUENCE ALIGNMENT:</b><br/> Substitution matrices - Scoring matrices – PAM and BLOSUM - Local and Global alignment concepts -  Dot plot - Dynamic programming methodology - Multiple sequence alignment – Progressive alignment. Database searches for homologous sequences – FASTA AND BLAST versions.                                                                                                                 (12)
+<br/>
+<br/><b>EVOLUTIONARY ANALYSIS:</b><br/>  Distances  -  Clustering methods  –  Rooted and unrooted tree representation  – Bootstrapping strategies.                                                                                                                                                                                               (8)
+<br/>
+<br/><b>PROTEIN STRUCTURE PREDITION:</b><br/> Fragment assembly - Genome sequence assembly  - Gene finding method - Gene prediction  - Analysis and prediction of regulatory regions-Concepts and secondary structure prediction.                                                           (10)
+<br/>
+<br/><b>PROBABILISTIC MODELS:</b><br/>Markov chain - Hidden Markov Models - Gene identification.  and other applications.                            (6)  
+<br/>  										       	           Total L: 45 
+<br/>
+<br/><b>REFERENCES:</b><br/>
+<br/>1.	Arthur M Lesk,” Introduction to BioInformatics”  Oxford University press,2014.
+<br/>2.	Richard Durbin, Sean Eddy, Anders Krogh, and Graeme Mitchison, “Biological Sequence Analysis: Probabilistic Models of Proteins and Nucleic Acids”, Cambridge University Press,2008. 
+<br/>3.	Bishop M.J., Rawlings C.J. (Eds.), “DNA and protein sequence analysis: A Practical Approach”, IRL Press, Oxford, 2010. 
+<br/>4.	Doolittle R.F. (Ed.), “Computer methods for macromolecular sequence analysis Methods in Enzymology”, Academic Press, 2010. 
+<br/>
+<br/><br/>

@@ -1,0 +1,22 @@
+<br/><b>INTRODUCTION TO PARALLEL AND DISTRIBUTED COMPUTING:</b><br/> Software as a Service (SaaS) - Virtualization - Parallelization.                  
+<br/>                                                                                                                                                                                                              (6)
+<br/><b>ADVANCED WEB TECHNOLOGIES:</b><br/>  AJAX and Mashup.                                                                                                                (4)
+<br/>
+<br/><b>CLOUD COMPUTIN:</b><br/> Definition, History, Comparison of Cloud Computing with Grid, Cluster and Utility Computing, Pros and Cons of Cloud Computing.                                                                                                                                                                     (4)
+<br/>
+<br/><b>VIRUTUALIZATION:</b><br/>  Types of Virtualization, Tools for Virtualization, Architecture of VMM, Virtualization for Cloud.                       (5)
+<br/>
+<br/><b>MAP REDUCE PARADIGMS:</b><br/>  Introduction, GFS Architecture, HDFS Architecture, Hbase, Google big Table, Amazon’s (key value) pair storage and Microsoft’s Azure infrastructure, Map reduce programming examples.                                                                   (10)
+<br/>
+<br/><b>CLOUD COMPUTING FRAMEWORK:</b><br/> Amazon EC3, S3 storage revises, Aneka frame work, IBM blue Cloud.                               (8)
+<br/>
+<br/><b>APPLICATIONS:</b><br/>  Distributed search engine and distributed data mining in the cloud.                                                                      (8)
+<br/>    								        Total L : 45 
+<br/><b>REFERENCES:</b><br/>
+<br/>1.	Liu M L, “Distributed Computing Principles and Applications”, Pearson Education, New Delhi, 2012.
+<br/>2.	Ajay D Kshemkalyani, “Distributed Computing: Principles, Algorithms, and Systems”, Cambridge University Press, 2013.
+<br/>3.	Rajkumar Buyya, James Broberg and Andrzej M Goscinski  “Cloud Computing: Principles and Paradigms” Wiley Press, 2011.
+<br/>4.	Barrie Sosinsky, “Cloud Computing Bible”, Wiley India Pvt. Ltd, 2011.
+<br/>5.	Dean J and Ghemawat S, “Map Reduce: Simplified Data Processing on Large Clusters” OSDI, 2004. 
+<br/>6.	Venkata Josyula, Malcolm Orr and Greg Page, “Cloud Computing Automating the Virtualized Data Center”, Cisco press, 2012.
+<br/><br/>

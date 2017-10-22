@@ -1,0 +1,14 @@
+<br/><b>INTRODUCTION:</b><br/> Text mining and information retrieval – Structured and unstructured data – Boolean queries and optimization – Understanding and exploiting the structure of a text – tokenization – Stemming – Lemmatization – Stop words and phrases – Indexing – Performance of indexing and retrieval – Several compression techniques.                   		                            (12)
+<br/>
+<br/><b>QUERY PROCESSING:</b><br/>  Query correction, suggestions using synonyms – wild card queries – Automatic discovery of similar words – trend analysis of queries – bigram indices – construction of Indices – construction of indices.      	                                            (11)
+<br/>
+<br/><b>CLASSIFICATION:</b><br/> Statistical  based Algorithms – Distance based Algorithms – Decision Tree  based Algorithms – Neural Network based Algorithms – Rule  based Algorithms – Combining Techniques.	                                                                                            (11)
+<br/>
+<br/><b>CLUSTERING:</b><br/>  Similarity and Distance Measures – Hierarchical Algorithms – Partition Algorithms – Clustering – Large Databases – Clustering with Categorical Attributes.                                                                                                                                                  (11)
+<br/>Total L : 45 
+<br/>
+<br/><b>REFERENCES:</b><br/>
+<br/>1.	Dan Sullivan, “Document Warehousing and Text Mining”, John Wiley & Sons, 2001.
+<br/>2.	Christopher D Manning, Prabhakar Raghavan and Hinrich Schutze, “ An Introduction to Information Retrieval”, Cambridge, 2008.
+<br/>3.	Michael W Berry, “Survey of Text Mining: Clustering, Classification, and Retrieval”, Springer, 2003.
+<br/><br/>

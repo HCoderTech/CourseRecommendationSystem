@@ -1,0 +1,19 @@
+<br/><b>INTRODUCTION:</b><br/> Data Science <br/>
+<br/><b>DATA WRANGLING:</b><br/> Introduction - Common Data Formats - Sanity Checking of Data Dealing with missing data.                            (2)   
+<br/>
+<br/><b>DATA ANALYSIS:</b><br/> Introduction to Statistics - Normal and Non- normal distributions. Exploratory Analysis<br/>
+<br/><b>DECISION MAKING UNDER UNCERTAINTY:</b><br/> Elements of decision analysis - Baye’s rule- Multistage decision problems-incorporating attitudes towards risk.                                                                                                                                                     (7)
+<br/>
+<br/><b>REGRESSION ANALYSIS:</b><br/> Estimating relationships- statistical inference- forecasting methods- testing for randomness- regression based trend models - random walk models- autoregression models - moving averages - exponential smoothing. 	           (10)
+<br/>
+<br/><b>DATA VISUALIZATION:</b><br/>  Introduction - Different data types -  Data scales - Multivariate data.                                                           (2) 
+<br/>
+<br/><b>APPLICATIONS:</b><br/> Technology<br/>
+<br/>                                  				Total L : 45 
+<br/><b>REFERENCES:</b><br/>
+<br/>1.	Albright S Christian, Winston Wayne L and Zappe Christopher, “Data analysis and Decision Making”, South Western College Publication, 2010.
+<br/>2.	James R Evans, “Statistics, Data analysis and Decision modeling”, Prentice Hall, 2012.
+<br/>3.	Andrew Gelman and Jennifer Hill, “Data Analysis Using Regression and Multilevel/Hierarchical Model”, Cambridge University Press, 2006.
+<br/>4.	Anand Rajaraman, Jure Leskovec, Jeffery D. Ullman, “Mining of Massive datasets”, Cambridge University Press, 2014.
+<br/>5.	Gareth James, Daniel Witten, Trevor Hastie, Robert Tibshirani, “ An Introduction to Statistical Learning with Applications in R”, Springer 2013.
+<br/><br/>

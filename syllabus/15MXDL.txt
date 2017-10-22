@@ -1,0 +1,18 @@
+<br/><b>INTRODUCTION:</b><br/> Big Data Platform – Challenges of Conventional Systems - Intelligent data analysis – Nature of Data - Analytic Processes and Tools - Analysis - Reporting - Modern Data Analytic Tools - Statistical Concepts<br/>
+<br/><b>DATA STREAMS:</b><br/> Streams Concepts – Stream Data Model and Architecture - Stream Computing - Sampling Data in a Stream – Filtering Streams – Counting Distinct Elements in a Stream – Estimating Moments – Counting Oneness in a Window – Decaying Window - Real time Analytics Platform Applications - Real Time Sentiment Analysis, Stock Market Predictions.	  	             (9)
+<br/>
+<br/><b>BIG DATA PLATFORM:</b><br/> Hadoop- The Hadoop Distributed File System – component of Hadoop- Analyzing the Data with Hadoop- Scaling Out- Hadoop Streaming- Design of HDFS-MapReduce<br/>
+<br/><b>TOOLS:</b><br/> Pig – Hive – Mahout – Sqoop – Flume – NoSQL Databases – Need – Characteristics – Properties – Key-value Stores- Hbase – Column Family Stores – Document Stores – MongoDB – Graph Databases – Neo4j.   		                            (9) 
+<br/>
+<br/><b>CASE STUDIES:</b><br/> Social Network Analysis – Data Stream Analysis – Web Engineering – Personalized Information Systems.           (8)
+<br/> 			     							  	     
+<br/>Total L: 45 
+<br/>
+<br/><b>REFERENCES:</b><br/>
+<br/>1.	Michael Minelli, Michele Chambers, Ambiga Dhiraj, “Big Data, Big Analytics: Emerging Business Intelligence and Analytic Trends for Today's Businesses”, John Wiley and Sons, New Delhi, 2013.
+<br/>2.	Chris Eaton, Dirk DeRoos, Tom Deutsch, George Lapis, Paul Zikopoulos, “Understanding Big Data: Analytics for Enterprise Class Hadoop and Streaming Data”, McGrawHill Publishing, 2012.
+<br/>3.	Paul Zikopoulos,Dirk DeRoos, Krishnan Parasuraman, Thomas Deutsch, James Giles, David Corrigan, “Harness the Power of Big Data The IBM Big Data Platform”, Tata McGraw Hill Publications, 2013.
+<br/>4.	Tom White “ Hadoop: The Definitive Guide” Third Edition, O’Reilly Media, 2012.
+<br/>5.	Mike Barlow,  “Real Time Big Data Analytics:Emerging Architecture”, O’Reilly, 2013.
+<br/>6.	Eelco Plugge, Tim Hawkins and Peter Membrey, “The Definitive Guide to MongoDB: The NoSQL Dataase for Cloud and Desktop Computing”, Apress, USA,2010.
+<br/><br/>

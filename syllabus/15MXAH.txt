@@ -1,0 +1,16 @@
+<br/><b>Parallel Computer Models:</b><br/> The state of computing - Classification of parallel computers  -  Multiprocessors and Multicomputers -  Multivector and SIMD computers.   									           (6)                                            
+<br/><b>Program Properties:</b><br/> Data and resource Dependences - Hardware and Software parallelism -  Program partitioning and scheduling- Grain Size and latency - Program flow mechanisms - Control flow versus data flow - Data flow Architecture - Demand driven mechanisms - Comparisons of flow mechanisms.                                                                                                                     (9)  
+<br/>                                                                                                                                                           
+<br/><b>Principles of Scalable Performance:</b><br/> Performance Metrics and Measures,Parallel  Processing Applications - Speedup Performance Laws - Amdahl's law for fixed load, Gustafson's law for scaled problems, Memory Bounded Speedup Model.                             (8)
+<br/>                                
+<br/><b>Pipelining and Superscalar Techniques:</b><br/> Linear pipeline processor- nonlinear pipeline processor- Instruction pipeline Design - Mechanisms for instruction pipelining - Dynamic instruction scheduling - Branch Handling techniques, branch prediction - Arithmetic Pipeline Design - Computer Arithmetic principles - Static Arithmetic pipeline – Multifunctional Arithmethic pipelines.                   (10)  
+<br/>                                                                                                                                                                       
+<br/><b> Parallel , scalable and  Multi-Threaded Architectures:</b><br/> Multiprocessor System Interconnect - Cache Coherence and Synchronization Mechanisms – Message passing Mechanism - Latency Hiding Techniques - Principles of Multithreading - Scalable and Multithreaded Architectures. 									             (7)	                                                                                                                                                                 			                                                                                                               
+<br/><b>Cloud-Based High Performance Computing:</b><br/> Cloud computing fundamentals - Cloud reference architectures - High Performance Computing (HPC) on Cloud - Integration of high performance computing into cloud computing services - HPC applications.         (5)                                                                                                                                                                                               
+<br/>                Total L: 45      
+<br/><b>REFERENCES:</b><br/> 
+<br/>1.  Kai Hwang & Naresh Jotwani, "Advanced Computer Architecture – Parallelism,scalability,programmability ",Tata McGraw Hill , 2010. 
+<br/>2.  A. Patterson and J.L.Hennessey , "Computer organization and Design", Morgan Kaufmann , 2010.
+<br/>3.  Calvin Lin, Lawrence Snyder, “Principles of Parallel Programming”, Pearson Education, 2009.
+<br/>4.  Borko Furht, Armando Escalante, “Handbook of Cloud Computing” , Springer, 2010.
+<br/><br/>

@@ -1,0 +1,19 @@
+<br/><b>INTRODUCTION:</b><br/> Software Projects various other types of projects - Problems with software projects - an overview of project planning - Project evaluation - Project Analysis and technical planning - Project estimates - Preparation of Estimates - COCOMO model - Function Point Analysis - Putnam Model - Non-development overheads. 	                                                                              (8)
+<br/>
+<br/><b>ACTIVITY PLANNING:</b><br/> Project schedules - Sequencing and scheduling projects - Network planning models - Shortening project duration - Identifying critical activities.                                                                                                                                                    (9)
+<br/>
+<br/><b>RISK MANAGEMENT:</b><br/> Resource allocation - Monitoring and Control - Managing people and organizing teams - Planning for small   projects - Handling large projects - Divide and Conquer - Software Project survival.                                                                            (8)
+<br/> 
+<br/><b>SOFTWARE CONFIGURATION MANAGEMENT:</b><br/> Basic functions, responsibilities, standards, configuration Management, Prototyping  - Models of prototyping.                                                                                                                                                      (8)
+<br/>
+<br/><b>SOFTWARE QUALITY ASSURANCE:</b><br/> Quality and the quality system - standards and procedures - Technical activities – Component - Continuous Improvement - Software Tasks - Management responsibility - Quality System - Contract Review - Document Control - Product identification and trace ability.                                                                                                                                               (9)
+<br/>
+<br/><b>CASE STUDY:</b><br/> Using Project management tools.                                                                                                                                 (3)                                                                                                                                                                                                                                                         
+<br/>Total L : 45 
+<br/><b>REFERENCES:</b><br/>
+<br/>1.	Mike Cotterell and Bob Hughes, “Software Project Management”, Tata McGraw-Hill, 2010.  
+<br/>2.	Robert K Wysocki, Robert Beck Jr and David B Crane, “Effective Project Management , Traditional, Agile, Extreme”, 
+<br/>John  Wiley & Sons Inc, 2011.
+<br/>3.	Pressman R S, “Software Engineering - A Practitioner’s Approach”, Tata McGraw-Hill Book Company, 2010.
+<br/>4.	Darrel Ince, “An Introduction to Software Quality Assurance and its Implementation”, Mc-Graw Hill Book Company Ltd, 2002.
+<br/><br/>

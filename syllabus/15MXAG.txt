@@ -1,0 +1,16 @@
+<br/><b>INTRODUCTION:</b><br/> Fundamentals – Types – Acquire the Evidence – Authenticate the evidence – Analysis – Internet Fundamentals –Tracking Email – NETBIOS – Third Party programs – Web resources for researching Internet Inhabitants.                  		             (6)                   
+<br/>
+<br/><b>FORENSICS EVIDENCE AND CAPTURE:</b><br/> Data Recovery – Evidence Collection and Data Seizure – Duplication and Preservation of Digital Evidence – Computer Image Verification and Authentication.                                                      	 	                          (10)                                         
+<br/>                                                                                           
+<br/><b>COMPUTER FORENSICS ANALYSIS:</b><br/> Discovery of Electronic Evidence – Identify of data – Reconstructing past Events – Advanced Tools.											                             (7)                                                                                                                                                                                                     
+<br/>
+<br/><b>LAW AND ETHICS:</b><br/> Software Forensics in Court – Legal Systems – Evidence – Ethics – Computer Virus and Malware Concept – Programming Culture and Indicators – Stylistic Analysis and Linguistic Forensics.                                    		             (10)                                         
+<br/>
+<br/><b>ADVANCED COMPUTER FORENSICS:</b><br/>  Advance Encryption– Advance Hacking -Trackers and Hackers –Source Addresses – Examples.                                                                                	                                                              (6)                                                                                                               
+<br/>                                                                                                                            
+<br/><b>CASE STUDY:</b><br/> Computer Forensic Needs and Challenges – Investigating Window Computers – Unix for Forensic Examiners.(6)                                                                                                                                                      			                                                      		  			                Total L<br/>
+<br/>
+<br/><b>REFERENCES:</b><br/>
+<br/>1. Jay G Heiser and Warren G Kruse, “Computer Forensics: Incident Response Essentials”,   Addison Wesley, New Delhi, 2010.
+<br/>2. Robert M Slade, “Software Forensics: Collecting Evidence from the scene of a Digital Crime”, Tata McGraw Hill, New Delhi, 2011.
+<br/>3. John R Vacca, “Computer Forensics: Computer Crime Scene Investigation”. Firewall Media, New Delhi, 2005.<br/><br/>

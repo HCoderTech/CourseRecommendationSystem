@@ -1,0 +1,22 @@
+<br/><b>ARTIFICIAL INTELLIGENCE(AI):</b><br/> Evolution of computing – Defining AI - Characteristics of AI problem - State space representation – Problem solving by intelligent search strategies <br/>                                                                                                                                                                                                                (9)
+<br/>
+<br/><b>KNOWLEDGE REPRESENTATION:</b><br/> Logic- Propositional calculus - Predicate calculus - Rules of inference - Resolution - Unification algorithm - Semantic networks - Frames – Petri Nets – Scripts.                                                                                                            (7)
+<br/>
+<br/><b>SOFT COMPUTING AND CONVENTIONAL AI:</b><br/> Constituents - Characteristics - Hybrid models.                                                       (2)
+<br/>
+<br/><b>FUZZY SET THEORY:</b><br/>   Fuzzy sets - Basic definitions - Membership functions - Fuzzy rules and reasoning - Fuzzy relations - Fuzzy if-then rules - Fuzzy reasoning                                                                                                                                                             (10)
+<br/>
+<br/><b>GENETIC ALGORITHMS:</b><br/>History – basic concepts – working principle – encoding methods – fitness function – reproduction methods - Genetic inheritance operators - Cross over operators - Mutation - Reproduction –convergence - applications.                                 (6)
+<br/>
+<br/><b>NEURAL NETWORKS:</b><br/>   Basic  concepts - Network properties - Learning in simple neurons - Single layer perceptrons - Multilayer perceptrons - Supervised and unsupervised learning – Backpropagation network,  Kohonen's self organizing network, Hopfield network.	                                                                                                                                                                                             (11)
+<br/>
+<br/>            Total L : 45 
+<br/>
+<br/>
+<br/><b>REFERENCES:</b><br/>
+<br/>1.	Peter Norvig and Stuart J Russel, “Artificial Intelligence: A Modern Approach”, Prentice Hall, 2009.
+<br/>2.	Ross Timothy J, "Fuzzy Logic with Engineering Applications", John Wiley and Sons Ltd, 2005.
+<br/>3.	Rajasekaran S and Vijayalakshmi Pai G A, “Neural Networks, Fuzzy Logic and Genetic Algorithms”, PHI Learning, 2003. 
+<br/>4.	  Amit Konar, “Artificial Intelligence and Soft Computing”, CRC Press, 2008.
+<br/>5.	Simon Haykin, “Neural networks and Machine learning”, Prentice Hall, 2008.
+<br/><br/>

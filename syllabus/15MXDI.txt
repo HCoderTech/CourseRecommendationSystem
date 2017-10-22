@@ -1,0 +1,21 @@
+<br/><b>INTRODUCTION:</b><br/>   Human–Computer Interface – Characteristics of Graphics Interface – Direct Manipulation Graphical System – Web User Interface – Popularity – Characteristic and Principles.                                                                                                          (8)
+<br/>
+<br/><b>HUMAN COMPUTER INTERACTION:</b><br/>  User Interface Design Process – Obstacles – Usability – Human Characteristics in  Design
+<br/>– Human Interaction Speed –Business Functions –Requirement Analysis – Direct – Indirect Methods – Basic Business Functions – Design Standards – General Design Principles – Conceptual Model Design – Conceptual Model Mock-Ups.	                          (7)
+<br/>
+<br/><b>WINDOWS:</b><br/> Characteristics – COMPONENT – Presentation Styles – Types– Managements – Organizations – Operations – Web Systems – System Timings – Device – Based Controls – Characteristics – Screen – Based Controls –– Human Consideration In Screen Design – Structures of Menus – Functions of Menus – Contents of Menu – Formatting – Phrasing the Menu – Selecting Menu Choice – Navigating Menus – Graphical Menus. Operate Control – Text Boxes – Selection Control – Combination Control – Custom Control – Presentation Control.	                                                                                                                                              12)
+<br/>
+<br/><b>MULTIMEDIA:</b><br/> Text For Web Pages – Effective Feedback – Guidance and Assistance – Internationalization – Accessibility – Icons – Image – Multimedia – Coloring.                                                                                                                                                              (9)
+<br/>
+<br/><b>EVALUATION:</b><br/> Conceptual Model Evaluation – Design Standards Evaluation – Detailed User Interface Design Evaluation.             (9)
+<br/>
+<br/> Total L: 45 
+<br/>
+<br/><b>REFERENCES:</b><br/>
+<br/>1.	Wilbent  O Galitz ,“The Essential Guide To User Interface Design – An introduction to GUI Design Principles and Techniques”, John Wiley& Sons,  2007.
+<br/>2.	Deborah Mayhew, “The Usability Engineering Lifecycle: A Practitioner’s Handbook for User Interface Design (Interactive 
+<br/>3.	Technologies)”, Academic Press, 1999.
+<br/>4.	Ben Shneiderman, “Design the User Interface – Strategies for Effective Human Computer Interaction”, Pearson     Education, 1998.
+<br/>5.	Alan Cooper, “The Essential of User Interface Design”, Wiley – Dream Tech Ltd., 2002. 
+<br/>6.	Sharp, Rogers and Preece, “Interaction Design : Beyond Human Computer Interaction”, Wiley India Edition, 2007.
+<br/><br/>

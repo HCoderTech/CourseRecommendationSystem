@@ -1,0 +1,21 @@
+<br/><b>NETWORK MANAGEMENT ARCHITECTURES & APPLICATIONS:</b> <br/>Management Standards and Models - Network Management Functions  - Configuration Management & Auto-discovery - Configuration Database & Reports - Abstract Syntax Notation One (ASN.1).                                                                                                                                                                                                (6)
+
+<br/><br/><b>SNMP:</b><br/> SNMP v1 - Structure of Management Information -Std. Management Information Base (MIBs) - SNMPv1 Protocol - Network Management Functions.                                                                                                                                                                       (6)
+
+<br/><br/><b>FAULT MANAGEMENT:</b><br/> Fault Identification and Isolation - Event Correlation Techniques - SNMP v2 - Version 2 Protocol Specification  - Version 2 MIB Enhancements -MIB-II - SNMP v3 - Version 3 Protocol & MIB - Network Management Functions.      (7)
+
+<br/><br/><b>SECURITY MANAGEMENT:</b><br/> Functions - Protecting Sensitive Information - Host and User Authentication - Key Management - User Based Security Model - View Based Access Model. 	                                                                                                            (5)
+
+<br/><br/><b>ACCOUNTING MANAGEMENT:</b><br/> Performance Management - Network Usage, Metrics and Quotas.                                               (3)
+
+<br/><br/><b>REMOTE NETWORK MONITORING:</b><br/> RMON 1 - Statistics Collection - Alarms and Filters - Remote Network Monitoring RMON 2 - Monitoring Network Protocol Traffic.                                                                                                                                                    (6)
+
+<br/><br/><b>MANAGEMENT TOOLS:</b><br/> Application-Layer Visibility - Management Tools, Systems and Applications -Test and Monitoring Tools - Integrating Tools - Development Tools - Web-based Enterprise Management - XML based network management - Distributed Network  Management - NMS software features and Design.                                                                                                             (7)
+
+<br/><br/><b>DHCP:</b><br/> DHCP configuration - Implementing DHCP -Managing and Monitoring DHCP - Implementing Name Resolution Using DNS - Managing and Monitoring DNS - Implementing and Managing Software Update Services.                                                                (5)
+                                                                                                                                                                         
+ Total L : 45 
+<br/><br/><b>REFERENCES:</b>
+<br/><br/>1.	William Stallings, "SNMP, SNMPv2, SNMPv3 and RMON 1 and 2", Addison Wesley, 2009.
+<br/><br/>2.	Comer D E, "Internetworking with TCP/IP Vol- III", (BSD Sockets Version), Prentice Hall of India, 2003.
+<br/><br/>3.	David Zelsterman, "A practical guide to SNMPv3 Network Management", Prentice Hall, 1999. 

@@ -1,0 +1,20 @@
+<br/><b>STORAGE TECHNOLOGY:</b><br/> Data proliferation and the varying value of data with time and usage -  Sources of data and states of data creation -  Data center requirements and evolution to accommodate storage needs - Overview of basic storage management - skills and activities -  the five pillars of technology -  Overview of storage infrastructure Component - Evolution of storage -  Information Lifecycle Management concept - Data categorization within an enterprise -  Storage and Regulations.	             (8)
+<br/>
+<br/><b>STORAGE SYSTEMS ARCHITECTURE:</b><br/> Intelligent disk subsystems overview - Contrast of integrated vs. modular arrays- Component architecture of intelligent disk subsystems - Disk physical structure – Component – properties - performance and specifications - Logical partitioning of disks -  RAID and parity algorithms -  hot sparing - Physical vs. logical disk organization -  protection and back end management - Array caching properties and algorithms -  Front end connectivity and queuing properties -  Front end to host storage provisioning - mapping and operation - Interaction of file systems with storage - Storage system -  connectivity protocols.                                                                      					           (8)
+<br/>
+<br/><b>NETWORKED STORAGE:</b><br/> JBOD, DAS, SAN, NAS and CAS evolution -  Direct Attached Storage (DAS) environments<br/>
+<br/><b>INFORMATION AVAILABILITY:</b><br/> Business Continuity and Disaster Recovery Basics - Local business continuity techniques -  Remote business continuity techniques -  Disaster Recovery principles and techniques.      				             (8)
+<br/>
+<br/><b>MANAGING & MONITORING:</b><br/> Management philosophies (holistic vs. system & component) - Industry management standards (SNMP, SMI-S, CIM) - Standard framework applications - Key management metrics (thresholds, availability, capacity, security, performance) -  Metric analysis methodologies and trend analysis - Reactive and pro-active management best practices - Provisioning and configuration change planning - Problem reporting - prioritization and handling techniques - Management tools overview.             											             (6)
+<br/>
+<br/><b>SECURING STORAGE AND STORAGE VIRTUALIZATION:</b><br/>  Storage security - critical security attributes for information systems - elements of a shared storage model and security extensions -   storage security domains -  common threats in each domain - virtualization technologies -  block-level and file level virtualization technologies and processes.    			             (6)
+<br/>                                                                       					                        
+<br/> Total L : 45 
+<br/>
+<br/><b>REFERENCES:</b><br/>
+<br/>1.	Thejendra B S, “Disaster Recovery & Business continuity”, Shroff Publishers, 2008.  
+<br/>2.	Robert Spalding and Robert Spalding, “Storage Networks: The Complete Reference”, Tata McGraw Hill, 2003.
+<br/>3.	Meeta Gupta, “Storage Area Network Fundamentals”, Pearson Education, 2003.
+<br/>4.	Marc Farley Osborne, “Building Storage Networks”, Tata Mac Graw Hill, 2001. 
+<br/>5.	Gerald J Kowalski and Mark T Maybury, “Information Storage Retreival Systems theory & Implementation”, BS Publications, 2000. 
+<br/><br/>

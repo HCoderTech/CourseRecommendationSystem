@@ -1,0 +1,20 @@
+<br/><b>INTRODUCTION TO MODELING:</b><br/>   Modeling process - Overview of different kinds of models.                                     	   (2) 
+<br/>  
+<br/><b>EMPIRICAL MODELING WITH DATA FITTING:</b><br/> Error functions - least squares - fitting data with polynomials and splines.              (5)
+<br/>
+<br/><b>QUALITATIVE MODELING WITH FUNCTIONS:</b><br/> Modeling species propagation - supply and demand - market equilibrium - market adjustment. Inventory  Models - Various types of inventory models with shortage and without shortage - Probabilistic Models.     (12)
+<br/>
+<br/><b>CAUSAL MODELING FORECASTING:</b><br/> Introduction - Modeling the causal time series - forecasting by regression analysis - prediction by regression. Planning, development and maintenance of linear models - trend analysis - modeling seasonality and trend. 	                    (8)
+<br/>
+<br/><b>THEORY OF GAMES:</b><br/> Introduction – Two person zero sum games - The rules of dominance graphical method - linear programming method.			   (8)
+<br/>
+<br/><b>MODELING WITH SIMULATION:</b><br/> Principles of Computer modeling and simulation, Monto - Carlo Simulation - Limitation of Simulation - areas of application - discrete and continuous systems - variety of modeling approaches. Techniques of Random number generation -  Midsquare method - midproduct method - Constant multiplier technique - additive congruential method - linear congruential method. Tests for random numbers - The Kolmogorov – Simmov test- The chi-square test.	 	   (10)
+<br/> 
+<br/>								Total L : 45 
+<br/>
+<br/><b>REFERENCES:</b><br/> 
+<br/>1.   Hamdy A Taha, “Operation Research”, Pearson Education, 2012.
+<br/>2.   Jerry Banks, John S Carson and Barry L Nelson, “Discrete Event system Simulation”, Prentice Hall, 2002.
+<br/>3.   Edward A Bender, “An Introduction to Mathematical Modeling”, Dover, 2000.
+<br/>4.   Averil M Law and W David Ketlton W, “Simulation modeling and Analysis”, Tata Mc-Graw Hill, 2000.
+<br/>5.   Giordano F R, Weir M D and Fox W P, “ A First Course in Mathematical Modeling” Vikas publishing House PLtd, 2003.<br/><br/>

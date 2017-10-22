@@ -1,0 +1,19 @@
+<br/><b>INTRODUCTION:</b><br/> Historical development – Features– Classification and COMPONENT – Advantages – Applications.	             (5)                                                                                             
+<br/>
+<br/><b>EVOLUTIONARY ALGORITHM:</b><br/> COMPONENT of Evolutionary Algorithms (EA) - Working principle of EA, Applications<br/> 
+<br/><b>EVOLUTIONARY COMBINATORIAL OPTIMIZATION:</b><br/> Local search<br/>                                                        
+<br/><b>ANT COLONY OPTIMIZATION:</b><br/> Ant foraging behavior - Theoretical considerations – Convergence proofs – ACO Algorithm – ACO and model based search – Variations of ACO<br/><b>PARTICLE SWARM OPTIMIZATION:</b><br/> Principles of bird flocking and fish schooling – Evolution of PSO – Operating principles – PSO Algorithm – Neighborhood Topologies – Convergence criteria –   Variations of PSO<br/>
+<br/><b>ARTIFICIAL BEE COLONY (ABC) OPTIMIZATION:</b><br/> Behavior of real bees, ABC algorithm- variations of ABC<br/>
+<br/><b>MULTIOBJECTIVE EVOLUTIONARY OPTIMIZATION:</b><br/> Introduction, Pareto optimality, Multi-Objective evolutionary algorithms.     (5)                                                                                                             											
+<br/>                                                                                                                                                                                             Total L : 45 
+<br/>
+<br/><b>REFERENCES:</b><br/>
+<br/>1.	Kenneth A DeJong, “Evolutionary Computation A Unified Approach”, Prentice Hall of India, New Delhi, 2006.
+<br/>2.	Marco Dorigo and Thomas Stutzle, “Ant Colony optimization”, Prentice Hall of India, New Delhi 2005.
+<br/>3.	Kennedy J and Russel C Eberhart, “Swarm Intelligence”, Morgan Kaufmann Publishers, USA, 2001. 
+<br/>4.	Eiben A.E and Smith J.E,” Introduction to Evolutionary Computing” Springer, 2008.
+<br/>5.	Dervis Karaboga, Bahriye Akay,” A comparative study of Artificial Bee Colony algorithm” Applied Mathematics and Computation 214, Elsevier Publications, 2009. 
+<br/>6.	Frank Neumann and Carsten Witt, “Bio-inspired Computation in Combinatorial Optimization”, Springer, New York, 2010.
+<br/>7.	Jun Sun, Choi-Hong Lai and Xiao-Jun Wu, “Particle Swarm Optimisation: Classical and Quantum Perspectives”, Taylor and Francis, USA, 2012.
+<br/>8.	Carlos A Coello Coello, Gary B Lamont and David A Van Veldhuizen, “Evolutionary Algorithms for Solving Multi-Objective Problems”, Springer, New York, 2007.
+<br/><br/>

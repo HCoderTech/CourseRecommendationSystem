@@ -1,0 +1,18 @@
+<br/><b>INTRODUCTION:</b><br/> Pervasive Computing – Principles – Pervasive Computing Applications – Pervasive Information Technology – Pervasive Information Access Devices – Smart Identification, Smart card, labels, tokens – Embedded Controls, Smart Sensors, Actuators, Appliances, Home Networking, Entertainment – Pervasive Application Development Software – Operating System, Windows CE, Palm OS, Symbian OS, Java Card – Middleware – Security – Connecting the World, WWAN, SRWC, DECT, Bluetooth, IrDA – Mobile Internet – Internet Protocols.                                                                                                        	                        (8)
+<br/>
+<br/><b>PERVASIVE APPLICATION DEVELOPMENT:</b><br/> Approaches for Developing Pervasive Applications – Developing Mobile Applications – Presentation Transcoding – Device Independent View Component – Heterogeneity of Device Platforms – Dynamics of Application Environment – ISAM Application Model – ISAM Architecture – Context Awareness and Mobility to Building Pervasive Applications. (8)                                                                                                                          
+<br/>
+<br/><b>LOCATION MANAGEMENT:</b><br/>  Introduction to Location Management – DNS Server, Server Process, Client Process – Location Update – Location Inquiry – Location Management Cost – Network Topology – Mobility Pattern, Memory Less Movement Model, Markovian Model, Shortest Distance Model, Gauss-Markov Model, Activity Based Model, Mobility Trace, Fluid-Flow Model, Gravity Model.                                                                                                                                                                                               (9)
+<br/>
+<br/><b>LOCATION UPDATES AND LOCATING MOVING OBJECTS:</b><br/> Location Update Strategies, Always update, Never-Update, Time Based, Movement Based, Distance Based Update Strategies – Architecture of Location Directories, Two-Tier Scheme, Hierarchical Scheme – Optimization of the Architecture – Taxonomy and Location Management Techniques – Case Studies.                          (10)
+<br/>
+<br/><b>LOCATION BASED SERVICES:</b><br/> Research on Location Based Services – Location Relatedness and the Query Model - Location Dependent Data – Location Aware Queries – Location Dependent Queries – Moving Object Database Queries – Query Classification – Query Translation Steps in LDQ Processing – Case Studies. 	                                                                                      (10)
+<br/>                              Total L : 45 
+<br/>
+<br/><b>REFERENCES:</b><br/>
+<br/>1.	Mohammad Ilyas and Imad Mahgoub, “Mobile Computing Handbook”, Auerbach Publications, 2005.
+<br/>2.	Horst Henn, Jochen Burkhardt and Thomas Schack, “Pervasive Computing”, Pearson Education, 2009.
+<br/>3.	Uwe Hansmann, Martin S Nicklous and Thomas Stoper, “Pervasive Computing Handbook”, Springer-Verlag, 2001.
+<br/>4.	Uwe Hansmann, Martin S. Nicklous and Thomas Stoper, “Principles of Mobile Computing”, Springer-Verlag, 2001.
+<br/>
+<br/><br/>

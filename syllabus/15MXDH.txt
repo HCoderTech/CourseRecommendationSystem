@@ -1,0 +1,21 @@
+<br/><b>INTRODUCTION:</b><br/> Introduction to Open sources – Need of Open Sources – Advantages of Open Sources – Application of Open Sources- Bug Fixing – Commercial aspects of Open Source Systems- Software patenting and violations.		             (5)
+<br/>
+<br/><b>OPEN SOURCE PROGRAMMING LANGUAGES:</b><br/> PHP<br/>
+<br/><b>OPEN SOURCE DATABASE :</b><br/> Documents Database- MongoDB- Installation – crud operations- insert,modify, remove & quality documents- 2-phase commits- Data models-Administration-security – aggregation- Indexes- Mongo shell – operators- couch DB over MongoDB.											             (8)	
+<br/>
+<br/><b>PYTHON:</b><br/> Syntax and Style – Python Objects – Numbers – Sequences – Strings – Lists and Tuples – Dictionaries – Conditionals and Loops – Files – Input and Output – Errors and Exceptions – Functions – Modules – Classes and OOP – Execution Environment.(7)                                                                                                                                                                       				
+<br/><b>RAILS:</b><br/> Introduction - DRY - COC - MVC - REST - Migrations - Active Record Validations - Active Record Associations - Active Record Query Interface - Layouts and Rendering - Action Controller - Rails Routing.       				             (6)
+<br/>
+<br/><b>RUBY:</b><br/> History and Design of Ruby – Classes, Objects and Variables – Containers, Blocks and Iterators – Standard Types – Methods – Expressions – Exceptions – Modules – Input and Output – Threads and Processes – Ruby and Web – Reflection – ObjectSpace – Distributing Ruby.      									             (6)
+<br/>
+<br/><b>OPEN SOURCE TOOLS AND TECHNOLOGIES:</b><br/> WEB SERVER<br/>Total L : 45 
+<br/>
+<br/><b>REFERENCES:</b><br/>
+<br/>1.	Karl Fogel, “Producing Open Source Software”, O’Reilly, 2006.
+<br/>2.	Kristina Chodorow and Michael Dirolf, “MongoDB: The Definitive Guide”, O’Reily, 2010.
+<br/>3.	Rasmus Lerdorf and Kevin Tatroe, “Programming PHP”, O’Reilly, 2013.
+<br/>4.	Wesley J Chun, “Core Python Application Programming”, Prentice Hall, 2012.
+<br/>5.	Bruce A Tate and Curt Hibbs, “Ruby on Rails: Up and Running”, O’Reilly Media, 2008.
+<br/>6.	Carlson and Leonard Richardson, “Ruby Cookbook”, O’Reilly Media, 2008.
+<br/>7.	Peter Wainwright, “Professional Apache”, Wrox Press, 2002.
+<br/><br/>

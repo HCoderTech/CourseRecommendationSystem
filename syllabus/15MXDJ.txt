@@ -1,0 +1,17 @@
+<br/><b>INTRODUCTION TO PATTERNS:</b><br/> Reusable object oriented software – Motivation - Best design practices of object oriented software - Benefits of patterns – Definition – Types - Pattern description - How design patterns solve design problems - Pattern Language - IDIOMS.                                                                                                                                                                                  (10)
+<br/>
+<br/><b>DESIGN PATTERNS:</b><br/> Creational pattern<br/>
+<br/><b>ARCHITECTURAL PATTERNS:</b><br/> From Mud to Structure<br/>
+<br/><b>CODE REFACTORING:</b><br/> What is refactoring - Principles in refactoring - Bad smells in code - Composing methods - Moving features between objects - Organizing data - Simplifying conditional expressions - Making method calls simpler - Dealing with generalization.                                        
+<br/>                                                                                                                                                                                                              (10)
+<br/>
+<br/>							      Total L : 45 
+<br/><b> REFERENCES:</b><br/>
+<br/>1.	Erich Gamma, Richard Helm, Ralph Johnsons and John Vlissides, “Design Patterns: Elements of Reusable Object Oriented Software”, Pearson Education, New Delhi, 2004.
+<br/>2.	Frank Buschman, Regine Meunier, Hans Rohnert, Peter Sommerlad and Michael Stal, “Pattern-Oriented Software Architecture: A System of Patterns”, Wiley, New Delhi, 2008.
+<br/>3.	Craig Larman, “Applying UML and Patterns”, Pearson Education, New Delhi, 2011.
+<br/>4.	Martin Fowler, Kent Beck, William Opdyke, Don Roberts, “Refactoring: Improving the Design of Existing Code”, Addison Wesley, Massachusetts, 2011.
+<br/>5.	Sherif Yacoub, Hany Ammar, “Pattern-Oriented Analysis and Design: Composing Patterns to Design Software Systems”, Addison Wesley, Boston, 2004.
+<br/>6.	Partha Kuchana, “Software Architecture Design Patterns in Java”, Auerbach Publications, New York, 2004.
+<br/>7.	William J Brown, Raphael C Malveau, Hays W McCormick and Thomas J Mowbray, “AntiPatterns: Refactoring Software, Architectures, and Projects in Crisis”, Wiley, New York, 1998.
+<br/><br/>

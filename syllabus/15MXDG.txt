@@ -1,0 +1,20 @@
+<br/><b>GRAPHICS INPUT - OUTPUT DEVICES:</b><br/>  Raster scan Displays - Random scan displays - Direct view storage tubes - Flat panel displays - Mouse - Track Ball - Joy Stick - Digitizers - Touch panels.    	                                                                                              (4)
+<br/>
+<br/><b>TWO DIMENSIONAL GRAPHICS:</b><br/> Basic transformations - Matrix representation and homogeneous coordinates - composite transformations - Line drawing algorithms<br/><b>RASTER GRAPHICS:</b><br/>  Fundamentals<br/>
+<br/><b>CURVES AND SURFACES:</b><br/>Parametric representation of curves - Bezier curves - B-Spline curves - parametric representation of surfaces - Bezier surfaces - curved surfaces - ruled surfaces - quadric surfaces.	                                                                              (7)
+<br/>
+<br/><b>THREE DIMENSIONAL GRAPHICS:</b><br/> 3D transformations - viewing 3D graphical data -  orthographic, oblique, perspective projections -  hidden lines and hidden surface removal.                                                                                                                                           (5)
+<br/>
+<br/><b>ANIMATION GRAPHICS:</b><br/>Design of Animation sequences - animation function - raster animation - key frame systems - motion specification -morphing - tweening.                                                                                                                                                       (3)
+<br/>
+<br/><b>COMPUTER GRAPHICS REALISM:</b><br/> Tiling the plane - Recursively defined curves - Koch curves - C curves - Dragons - space filling curves - fractals - Grammar based models - graftals - turtle graphics - ray tracing.                                                                              (5)
+<br/>Total L : 45 
+<br/>
+<br/><b>REFERENCES:</b><br/>
+<br/>1.   Donald Hearn and  Pauline Baker M, " Computer Graphics with open GL", Pearson Education, 2011.
+<br/>2.   Foley James D., Vandam Andries and  Hughes John F., "Computer Graphics : Principles and Practice", Pearson Education, 
+<br/>      2013.
+<br/>3.   Gonalez R.C and Woods R.E, “Digital Image Processing”, Pearson Education, 2009.
+<br/>4.   Roy. A.  Plastock and Gordon  Kalley, "Theory  and  Problems of Computer Graphics",  Schaum's outline  series,  
+<br/>      McGraw  Hill , 2000.
+<br/><br/>

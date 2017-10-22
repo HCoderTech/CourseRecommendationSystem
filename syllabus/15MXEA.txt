@@ -1,0 +1,16 @@
+<br/><b>INTRODUCTION:</b><br/> The value of knowledge – Knowledge Engineering and Knowledge Systems- Knowledge Engineering basics- Principles – Model Suite – Process Roles – Terminology-Task and Organization Analysis  - Steps - Organization Modeling Impact and Improvement Analysis - Task and Agent modelling – Guidelines for the context Modeling Process.                                             (8)  
+<br/>
+<br/><b>KNOWLEDGE MANAGEMENT AND MODELS:</b><br/> Explicit and Tacit knowledge – Knowledge Management Cycle – Knowledge management and process - COMPONENT - Nature of knowledge – Challenges – Knowledge Management Model – Domain Knowledge – Inference Knowledge – Task Knowledge – Typographic Conventions – Comparison with other analysis approaches - Template knowledge Models – Reusing Knowledge Model Elements – A small task Template catalog – Classification – Assessment – Diagnosis- Monitoring –Synthesis – Configuration design – Assignment – Planning – scheduling – task type combinations – Relation to Task and Organization models.                 							                      (12)
+<br/>
+<br/><b>KNOWLEDGE MANAGEMENT CONSTRUCTION, MODELLING AND ELICITATION:</b><br/> Stages – Knowledge Identification – Knowledge specification – Knowledge Refinement – Documenting the Knowledge Model.                                                                  (6)
+<br/>
+<br/><b>COMMUNICATION MODELLING:</b><br/> Role and Overview of the Communication model – The Communication plan – transactions between agents – Detailing the Information Interchange – validating and balancing the Communication model – A structured process for Communication modeling - Advanced knowledge modelling<br/>
+<br/><b>DESIGN , IMPLEMENTATION AND APPLICATION OF KNOWLEDGE SYSTEMS:</b><br/>  Overview of the design process- Steps – Design of prototypes – Distributed Architectures- Implementation in Prolog and Aion - Project Management - Project Planning – Assessing risks – Setting objectives through Model states – Documentation.                                                                                                        (8)
+<br/>Total L: 45 
+<br/>
+<br/><b>REFERENCES:</b><br/>
+<br/>1.	Guss Schreiber, Hans Akkermans, Anjo Anjewierden, Robert de Hoog, Nigel Shadbolt, Walter Van de Velde and Bob 
+<br/>        Wielinga, “Knowledge Engineering and Management” Universities Press, 2001. 
+<br/>2.	Stuart Barnes, “Knowledge Management Systems: Theory and Practice”, Thomas Learning, 2002.  
+<br/>3.	Jerry Honeycutt, “Knowledge Management Strategies”, Microsoft Press, 2000.
+<br/><br/>

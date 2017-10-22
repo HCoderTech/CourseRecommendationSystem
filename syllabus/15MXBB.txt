@@ -1,0 +1,20 @@
+<br/><b>INTRODUCTION:</b><br/> Comparison with HTML – XML documents – Well-formed XML document – Markup and character data – Prolog and XML declaration – Processing Instructions – XML elements – Types of elements – Attributes – Elements Vs Attributes – CDATA sections -  XML Namespaces.                                                                                                                                                              (4)
+<br/>
+<br/><b>DTD:</b><br/>  Valid XML document – Document Type Declarations and Document Type Definitions(DTDs) – Internal and External DTDs – Validating XML documents using DTD – Entities and Attributes – General and Parameter Entities.	  		             (7)
+<br/>
+<br/><b>XML SCHEMA:</b><br/>  Validating XML documents using XML Schema – Comparison with DTD – Creation of Simple Types – Specifying attribute constraints and defaults – Creation of Complex type – Specifying different types of content using Complex type – Specifying data types and restrictions in Schema.               							                            (9)
+<br/>
+<br/><b>XSL TRANSFORMATIONS:</b><br/>  XSLT style sheets in XML Documents – Creating XSLT style sheets – Matching Document structures to template rules – Defining Template rules and Declarations – XPath Operators and Expressions – Branching and Control functions – Variables and Parameters in XSLT – Working with Strings , Booleans and Numbers – Restructuring Input Documents and Manipulating Document Subsets. 									             (9)
+<br/>
+<br/><b>DOM AND SAX:</b><br/>  Comparison – Creating a DOM parser – Displaying and Filtering XML documents – Working with SAX – Displaying and Filtering XML documents.								                                           (6)
+<br/>
+<br/><b>XML TECHNOLOGIES:</b><br/>  XForms – XQUERY – XLINK – RSS.						             (6)
+<br/>
+<br/><b>XML SECURITY:</b><br/> XML Encryption – Signature – Key management.						             (4)
+<br/>                         Total L : 45 
+<br/>
+<br/><b>REFERENCES:</b><br/>
+<br/>1.	William R Stanek, “XML Pocket Consultant”, O'Reilly Media, 2011.
+<br/>2.	Elliotte Rusty Harold and ‎ Scott Means W, “XML in a Nutshell”, O'Reilly Media, 2009.
+<br/>3.	Heather Williamson, “XML:The Complete Reference”, McGraw-Hill, 2010.
+<br/><br/>

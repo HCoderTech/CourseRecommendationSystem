@@ -1,0 +1,19 @@
+<br/><b>SOLUTION OF ALGEBRIC SIMULTANEOUS EQUATIONS:</b><br/> Gauss – Jordan elimination, Cholesky method, Crout’s method, Gauss – Jacobi method, Gauss – Seidel method. Matrix Inverse by Gauss – Jordan method. 			                             (8)
+<br/>
+<br/><b>EIGEN VALUES AND ELGEN VECTORS:</b><br/> Power method of finding dominant eigen value and inverse power method for finding smallest eigen value, Jacobi method for symmetric matrices.						                            (4)
+<br/>
+<br/><b>FINITE DIFFERENCES AND INTERPOLATION:</b><br/> Finite difference operators- Interpolation-Newton-Gregory forward and backward Interpolation, Lagrange’s Interpolation formula. Solution of linear second order difference equations constant coefficients.           (14)
+<br/>
+<br/><b>DIFFERENTIATION AND INTEGRATION:</b><br/> Numerical differentiation using Newton-Gregory forward and backward polynomials. Numerical integration-Gaussian quadrature, Trapezoidal rule and Simpson’s one third rule.				            (5) 
+<br/>
+<br/><b>ORDINARY DIFFERENTIAL EQUATIONS:</b><br/> Taylor series method, Euler and Modified Euler method, (Heun’s method), Runge- Kutta method, Milne’s method, Adams-Moulton method, Solution of boundary value problems of second order by finite difference method.												                          (14)
+<br/>
+<br/>Total L : 45 
+<br/>
+<br/><b>REFERENCES:</b><br/> 
+<br/>1.	Stevan C Charpa and Raymond P Canale ,  “Numerical Methods for Engineers with Software and programming Applications”, Tata McGraw Hill,2007.
+<br/>2.	John H Mathews and Kurtis D Fink , “Numerical Methods using Mat lab”, Prentice Hall, 2004.
+<br/>3.	Cuties F Gerald and Patrick O Whetly, “Applied Numerical Analysis”, Pearson Education, 2011.
+<br/>4.	Rizwan Bulf ,  “Introduction to numerical analysis using Mat lab” Infinity Science Press, 2008.
+<br/>
+<br/><br/>

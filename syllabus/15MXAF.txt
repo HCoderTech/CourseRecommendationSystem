@@ -1,0 +1,22 @@
+<br/><b>INTRODUCTION:</b><br/> Introduction to networking - Advantages and disadvantages of wireless networking - Evolution of mobile communication generations – Wireless LAN and Wireless WAN - Mobile devices Profiles.                                                                (4)
+<br/>
+<br/><b>CELLULAR CONCEPT:</b><br/>Wireless transmission - Frequencies  for  radio transmission  -  Regulations -  Signals,Signal propagation, Path loss of radio signals , Additional signal propagation effects - Multi-path propagation -  Multiplexing – Cellular Systems –       Frequency Reuse – Problems with MAC in cellular systems – MACA – CDMA.                                                                                 (6)
+<br/>
+<br/><b>MOBILE NETWORK INFRASTRUCTURE:</b><br/> GSM  -  Mobile services  - System architecture  -- Handover – GPRS – Mobile services – System Architecture – WAP protocol stack – WAE- BlueTooth – Piconet,scaternet.                                                                       (8)
+<br/>
+<br/><b>MOBILE APPLICATIONS ARCHITECTURE :</b><br/>  Wireless Internet – Wireless Internet  Architecture – Smart Client – Smart Client Architecture – Messaging Architecture – Sample Applications – Characteristics and benefits – Application Model - Infrastructure  and Managing Resources  –  Mobile Software Engineering  –  Frameworks and Tools. 	                                                            (3)
+<br/>
+<br/><b>PLATFORM FOR APPLICATION DEVELOPMENT :</b><br/> Palm OS – Symbian OS – Windows CE –  Android - user interface - Generic UI Development – VUIs and Mobile Applications – Text to Speech techniques – Designing the  right  UI  –  Multimodal  and  Multichannel  UI  –  Gesture  based  UIs  –  Screen  Elements  and Layouts – Voice XML – Java API.                                             (6)
+<br/>
+<br/><b>APPLICATION DEVELOPMENT:</b><br/> Overview of Android  – Devices Running Android – Why for Android – Features of Android – Architecture, Libraries – SDK – Views and View groups – layouts – Menus  - Intents and services – Adapters – Using Internet Resources – Dialogs – Capturing Date and Time – Validation – File System in android –  File management  - Developing  Location based applications – Creating map based activities - Packaging and  Deployment - Security and Hacking - Android  Application  Architecture  - Event  based programming  - Event  handling  and  Graphics  services - Layer Animation – Android Instant Messaging – Gtalk Service – Managing Chat sessions – Sending and receiving data messages – SMS.                                                       (15)
+<br/>
+<br/><b>SQLite:</b><br/> Overview – Creating database – Editing tasks – cursors and content values.                                                                       (3)
+<br/>          Total L : 45 
+<br/>
+<br/><b>REFERENCES:</b><br/>
+<br/>1.	Martyn Mallick, “Mobile and Wireless design essentials” Wiley Publishing Inc, 2008.
+<br/>2.	Jochen Schiller, “Mobile Communications”, Addison-Wesley, 2003. 
+<br/>3.	Zigurd Mednieks, Laird Dornin G, Blake Meike and Masumi Nakamura, “Programming Android”, O‟Reilly, 2011.
+<br/>4.	Reto Meier and Wrox Wiley, “Professional Android 2 Application Development”, 2010.
+<br/>5.	Hansmann, Merk, Nicklous and Stober, “Principles of Mobile Computing”, Springer, 2003.
+<br/><br/>

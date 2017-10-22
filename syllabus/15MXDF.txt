@@ -1,0 +1,23 @@
+<br/><b>INTRODUCTION:</b><br/> Review on Definition and Basic Terminologies of Graphs – Representations of Graphs – Walks in Graphs and Digraphs - Subgraphs-Vertex Degrees - Path and Cycles - Regular and Bipartite Graphs- Incidence Matrices - Graph Traversals-Applications<br/>
+<br/><b>EULERIAN AND HAMILTONIAN GRAPHS:</b><br/> Exploring and Travelling – Eulerian Graphs – Hamiltonian Graphs – Applications<br/>
+<br/><b>PATHS AND CONNECTIVITY:</b><br/> Connected Graphs and Digraphs-Menger’s Theorem for Graphs-Applications<br/>
+<br/><b>PLANARITY:</b><br/> Planar Graphs – Euler’s Formula-Cycle Method for Planarity Testing – Kuratowski’s Theorem – Duality.                   (4)
+<br/>
+<br/><b>COLORINGS AND DECOMPOSITIONS:</b><br/> Vertex Colorings – Edge Colorings – Algorithm for Vertex and Edge Colorings – Vertex Decomposition – Edge Decomposition.	                                                                                                                                             (6)
+<br/>
+<br/><b>MATCHING AND FACTORS:</b><br/> Matching, Perfect matching, Tutte’s 1-factor theorem, weighted Bipartite matching, Hall’s theorem.   (5)
+<br/>
+<br/><b>NETWORK FLOWS AND APPLICATIONS:</b><br/> Flows and cuts in Networks, Maximum-flow problem, flows and connectivity– applications.                                                                                                                                                                                            (6)
+<br/>
+<br/><b>RANDOM GRAPHS:</b><br/> Random graph – Properties of Random graph -Erdos theorem, threshold function.		             (7)	        
+<br/>Total L : 45 
+<br/>
+<br/><b>REFERENCES :</b><br/>
+<br/>1.	Douglas B West, “Introduction to Graph Theory”, Pearson Education, New Delhi, 2001.
+<br/>2.	Joan M Aldous and Robin J Wilson, “Graphs and Applications- An Introductory Approach,Springer-Verlag”, New York, 2007.
+<br/>3.	Bela Bollobas, “Random Graphs”, Cambridge University Press, New York, 2008.
+<br/>4.	Reinhard Diestel, ”Graph Theory”, Springer-Verlag, Berlin Heidelberg, 2009.
+<br/>5.	Haynes T W, Hedetniemi and Slater P J, “Fundamentals of Domination in Graphs”, Marcel Dekker, 1998.
+<br/>6.	   Jonathan Gross and Jay Yellen, “Graph Theory and its Applications”, CRC Press, 2005.
+<br/>
+<br/><br/>

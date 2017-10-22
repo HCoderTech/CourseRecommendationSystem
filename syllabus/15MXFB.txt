@@ -1,0 +1,16 @@
+<br/><b>IR PROBLEM:</b><br/> Introduction- Building inverted Index - Processing Boolean queries –Term vocabulary and postings list – Determining  the vocabulary of terms- faster postings list- positional postings-phrase queries - Dictionaries and tolerant retrieval. Indexing<br/>
+<br/><b>SCORING-TERM WEIGHTING- VECTOR SPACE MODEL:</b><br/> Term frequency and weighting- vector space model-  variant tf-idf functions- Computing scores in System<br/>
+<br/><b>EVALUATION IN IR:</b><br/> Evaluation of unranked retrieval sets- evaluation of ranked retrieval results-assessing relevance - Relevance feedback and query expansion - Global methods for query reformulation. 	                                                                            (8)
+<br/>
+<br/><b>RETRIEVAL MODELS:</b><br/> Probabilistic information retrieval- The probability ranking principle - The binary independence model Language models for information retrieval<br/>
+<br/><b>CLUSTERING:</b><br/> Clustering in IR- K-means clustering- Evaluation- Hierarchical clustering- Agglomerative clustering-centroid clustering. Matrix Decompositions and singular value decompositions<br/>
+<br/><b>WEB SEARCHING:</b><br/> Basics - Web characteristics- The search user experience - Index size and estimation- Near-duplicates and shingling –Crawling- Distributed indexes- Connectivity servers. Link analysis-Web graph-page rank.	                                            (7)
+<br/>Total L : 45 
+<br/>
+<br/>
+<br/><b>REFERENCES:</b><br/> 
+<br/>1.	Christopher D Manning, Prabhakar Raghavan and Hinrich Schütze, “Introduction to Information Retrieval”, Cambridge University Press, London, 2008. 
+<br/>2.	Ricardo Baeza-Yates, Berthier Ribeiro-Neto, “Modern Information Retrieval”, Pearson Education, New Delhi,  2004.
+<br/>3.	Robert R Korfhage, “Information Storage and Retrieval”, John Wiley & sons Inc. New Delhi ,2006.
+<br/>4.	Kumar P S G, “Knowledge Organization, Information Processing and Retrieval Theory”, B R Publishing Company, 2003.
+<br/><br/>

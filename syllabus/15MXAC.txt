@@ -1,0 +1,20 @@
+<br/><b>INTRODUCTION:</b><br/> Security Goals – Security Services- Security Attacks-Cryptographic tools - Classical Cryptosystem (Substitution and Transposition ciphers.                                                                                                                                                                     (5)
+<br/>
+<br/><b>SYMMETRIC KEY ENCRYPTION:</b><br/> Conventional Encryption Model - Stream ciphers – Block ciphers –Modes of Operation- Data Encryption Standard (DES) – Linear and Differential Cryptanalysis - Advanced Encryption Standard(AES) - RC4 – Attacks on Cipher text.                                                                                                                                                                                                         (8)
+<br/>
+<br/><b>PUBLIC KEY ENCRYPTION ALGORITHMS:</b><br/>  Public-key encryption Model (Secrecy & Authentication) - RSA – ElGamal Cryptosystem- Elliptic Curve Cryptosystem (ECC)  -Security of RSA – The Integer Factorization Problem - Pollard’s rho factoring algorithm – The Discrete Logarithm Problem<br/>
+<br/><b>KEY GENERATION AND DISTRIBUTION:</b><br/>  Random Key Generation - Manual Key distribution – Key distribution centers – Diffie–Hellmann Key Exchange  -Randomness - ANSI X9.17 generator -  Linear Feedback Shift Registrars (LFSR)                                   (6)
+<br/>
+<br/><b>DIGITAL SIGNATURES AND HASH ALGORITHMS:</b><br/>  Message Digest Algorithm (MD5)- General Structure of Hash function – Secure Hash Algorithm (SHA – 1) –  Signature using RSA -  Digital Signature Algorithm (DSA)                                                          (6)
+<br/>
+<br/><b>SECURITY  AT LAYERS:</b><br/>  Application Layer Security <br/>
+<br/><b>COMPUTER SECURITY:</b><br/>  Intruders and Intrusion – Viruses and Worms – Firewalls – Design Principles – Packet Filtering – Application gateways - Digital Rights Management (DRM).                                                                                                                   (3)   
+<br/>                                                                                                        
+<br/>Total L : 45 
+<br/><b>REFERENCES:</b><br/>
+<br/>1. Behrouz A Fououzan, “Cryptograhy & Network Security”, Tata McGraw Hill, 2007. 
+<br/>2. William Stallings, “Cryptography and Network Security – Principles and Practice”, Pearson Educational, 2013.
+<br/>3. Josef Pieprzyk, Thomas Hardjono and Jennifer Sebery, “Fundamentals of Computer Security”, Springer, 2002.
+<br/>4. Bruce Schneier, “Applied Cryptography”, John Wiley, 2008.
+<br/>5. Charles P Pfleeger and Shari Pfleeger, “Security in Computing”, Pearson Education, 2009.
+<br/><br/>

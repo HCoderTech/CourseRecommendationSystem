@@ -1,0 +1,17 @@
+<br/><b>QUERY AND TRANSACTION PROCESSING   :</b><br/> Data Storage and Querying <br/>
+<br/><b>PARALLEL AND DISTRIBUTED DATABASES  :</b><br/>  Database System Architectures<br/>
+<br/><b>OBJECT AND OBJECT RELATIONAL DATABASES  :</b><br/>  Concepts for Object Databases<br/>
+<br/><b>ADVANCED DATA MODELS:</b><br/> Active Database Concepts and Triggers – Temporal Databases – Spatial Databases – Multimedia Databases – Deductive Databases – XML Databases<br/>
+<br/><b>MOBILE DATABASES:</b><br/> Location and Handoff Management - Effect of Mobility on Data Management - Location Dependent Data Distribution - Mobile Transaction Models.	                          						             (9)
+<br/>
+<br/>                                                                                                                                                     Total L : 45 
+<br/>
+<br/>
+<br/><b>REFERENCES:</b><br/>
+<br/>1.	Elmasri R and Navathe S B, “Fundamentals of Database Systems”,  Pearson Education/Addison Wesley,2010. 
+<br/>2.	Thomas Cannolly and Carolyn Begg, “Database Systems, A Practical Approach to Design, Implementation and Management”, Pearson Education, 2012.
+<br/>3.	Date C J, Kannan A and  Swamynathan S, “An Introduction to Database Systems”, Pearson Education, 2012.
+<br/>4.	Raghu Ramakrishnan and Johannes Gehrke, “Database Management Systems”, McGraw Hill, 2006.
+<br/>5.	Subramanian V S, “Principles of Multimedia Database Systems”, Harcourt India Pvt Ltd., 2007.
+<br/>6.	Vijay Kumar, “Mobile Database Systems”, John Wiley & Sons, 2006.
+<br/><br/>

@@ -1,0 +1,14 @@
+<br/><b>INTRODUCTION :</b><br/> Definitions and Functional Requirements – Motivation – Architecture - Web 3.0 View of IoT – Ubiquitous IoT Applications  – Four Pillars of IoT – DNA of IoT - The Toolkit Approach for End - user  Participation in the Internet of Things. Middleware for IoT<br/>
+<br/><b>IOT PROTOCOLS:</b><br/> Protocol Standardization for IoT - Efforts – M2M and WSN Protocols – SCADA and RFID Protocols – Issues with IoT Standardization - Unified Data standards - Protocols – IEEE 802.15.4 – BACNet Protocol  – Modbus – KNX  – Zigbee Architecture – Network layer – APS layer – Security.				  		                            (8)
+<br/>
+<br/><b>WEB OF THINGS:</b><br/> Web of Things versus Internet of Things – Two Pillars of the Web – Architecture Standardization for WoT – Platform Middleware for WoT – Unified Multitier WoT Architecture – WoT Portals and Business Intelligence. Cloud of Things<br/>
+<br/><b>INTEGRATED :</b><br/> Integrated Billing Solutions in the Internet of Things Business Models for the Internet of Things - Network Dynamics<br/>
+<br/><b>APPLICATIONS :</b><br/> The Role of the Internet of Things for Increased Autonomy and Agility in Collaborative Production Environments – Resource Management in the Internet of Things<br/>Electrical Vehicle Charging. 										             (7)	
+<br/>											             Total L : 45
+<br/><b>REFERENCES:</b><br/>
+<br/>1. Honbo Zhou,”The Internet of Things in the Cloud: A Middleware Perspective”, CRC Press 2012.
+<br/>2. Dieter Uckelmann; Mark Harrison; Florian Michahelles, “Architecting the Internet of Things”, Springer 2011.
+<br/>3. David Easley and Jon Kleinberg,”Networks, Crowds, and Markets: Reasoning About a Highly Connected World”, Cambridge University Press, 2010.
+<br/>4. Olivier Hersent, Omar Elloumi and David Boswarthick,”The Internet of Things: Applications to the Smart Grid and Building  Automation”,Wiley 2012.
+<br/>5. Olivier Hersent , David Boswarthick, Omar Elloumi , “The Internet of Things – Key applications and Protocols”, Wiley, 2012.
+<br/><br/>

@@ -1,0 +1,19 @@
+<br/><b>INTRODUCTION:</b><br/>  Computerized reasoning - Artificial Intelligence (AI) - characteristics of an AI problem - Problem representation in AI - State space representation - problem reduction-Concept of small talk programming. 				             (6)
+<br/>
+<br/><b>SEARCH PROCESS:</b><br/> AI and search process - Brute force search techniques, Depth first, Breadth first search techniques, Hill climbing, Best first search, AND/OR graphs,  A* algorithm - Constraint satisfaction.   				           (10)
+<br/>
+<br/><b>AI AND GAME PLAYING:</b><br/> Major COMPONENT of a game playing program - plausible move generator - static evaluation - function generator - Minimal strategy - Alpha - Beta techniques - problems in computer game playing programs. 		             (7)
+<br/>
+<br/><b>KNOWLEDGE REPRESENTATION:</b><br/> Logic, Propositional logic - Tautology - Contradiction  - Normal forms - Predicate logic - Rules of inference - Resolution - Unification algorithm - Production rules - Semantic networks - Frames – Scripts - Conceptual dependency.(9)                                                                                                                                                                                      
+<br/>
+<br/><b>KNOWLEDGE ENGINEERING:</b><br/> Design and architecture of expert systems - Expert system life cycle - Knowledge acquisition – difficulties - strategies -  major applications areas - Qualitative study of expert systems,  DENDRAL, MYCIN.                                  (8)
+<br/>
+<br/><b>MACHINE LEARNING:</b><br/> Frame work for learning – Inductive learning –Supervised, Unsupervised learning  – Parallel distributed processing – Genetic Algorithms.									             (5)
+<br/>                                                                                                                                                        Total L : 45 
+<br/>
+<br/><b>REFERENCES:</b><br/>
+<br/>1.	Stuart Russel and Peter Norvig, “Artificial Intelligence – A modern approach”, Prentice Hall, 2009.
+<br/>2.	Elaine Rich, Kevin Knight and Shivashankar B Nair, “Artificial Intelligence”, Tata McGraw Hill, 2010.
+<br/>3.	Patrick Henry Winston, “Artificial Intelligence”, Addison Wesley, 2000.
+<br/>4.	Luger George F and Stubblefield William A, “Artificial Intelligence: Structures and Strategies for Complex Problem Solving”, Pearson Education, 2002.
+<br/><br/>

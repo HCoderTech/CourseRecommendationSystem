@@ -1,0 +1,23 @@
+<br/><br/><b>INTRODUCTION:</b><br/> Evolution of Wireless Networks – Overview of various Wireless Networks.			             (4)
+
+<br/><br/><b>RF AND WLAN FUNDAMENTALS:</b><br/>   - Spectrum Allocations –  WLAN organizations – IEEE standards 802.11a/b/g/n comparison – Adaptive Radio Management -  RF spectrum management -  ARM and its need – ARM functional description – scanning – Logical WLAN infrastructure – BSS – ESS – Multiple ESSID /SSID	- cellular and Ad-hoc concepts.                                                         (6)
+<br/><br/><b>WLAN Technologies :</b><br/> System Architecture -  802.11 MAC -  Wireless standards – (HyperLan, HomeRF, Bluetooth, Zigbee, Wireless USB).			                                                                                                                                                   (2) 
+
+<br/><br/><b>WLAN SECURITY:</b><br/> 802.11 Legacy Security Methods - Encryption - TKIP/CCMP - Authentication – Passphrases & 802.1X/EAP - EAPTLS-configuration and  access control sequence in 802.1x  - WPA/WPA2-Personal - WPA/WPA2-Enterprise –User Authentication and credentials  Role-Based Access Control (RBAC)                                                                                                  (7)
+
+<br/><br/><b>AD HOC AND SENSOR NETWORKS :</b><br/> Ad hoc Networks  - issues and applications – Routing in Ad hoc networks -  Sensor  Networks – Introduction – Constratints and challenges in Sensor Networks .					             (6)	
+
+<br/><br/><b>WI-FI HARDWARE & SOFTWARE:</b><br/> Access Points – Lightweight – Autonomous - WLAN Routers - WLAN Bridges - WLAN Repeaters - WLAN Controllers/Switches - Direct-connect APs - Distributed-connect and software.                                                                                                                                                                        APs - PoE Infrastructure – Midspan – Endpoint -  Client hardware.                                                                                               (4)
+
+<br/><br/><b>WIRELESS LAN ARCHITECTURE AND CONFIGURATION:</b><br/> Components and Architecture  -  WLAN architecture components (AP  Controller) – Software Architecture – AP boot sequence and provisioning process -  Controller Licenses and managing licenses.                                                                                                                                                                                                                                                                                                                                                               											                            (5)
+<br/><br/><b>IMPLEMENTATION:</b><br/> Wizard based and Manual configuration – AP provisioning – 802.1x Authentication – Basic Firewall Configuration and policies – Rules, policies , roles and users – ACL - Guest Access – Remote AP –  RAP forwarding modes - Deploying and configuring secure wireless LAN.                                                                                                                                 (6)
+
+<br/><br/><b>WIPS:</b><br/> Overview – Wireless Threat – DoS attacks – Layer1/2 attacks – AP impersonations attacks – WIPS deployment modes – Wireless Threat protection framework.                                                                                                                                                 (5)
+
+<br/><br/> 	Total L : 45 
+<br/><br/><b>REFERENCES:</b><br/>
+1.	Clint Smith , Daniel Collins , “Wireless Networks “ , McGraw Hill, 2014.
+<br/><br/>2.	Mathews S Gast, “802.11ac: A survival Guide”, O'Reilly,2013.
+3.	Tyler Wrightson, “ Wirelesss Network Security”, McGraw Hill, 2012.
+4.	Steve Rackley, “Wireless Networking Technology”, Newnes, 2007.
+<br/><br/>5.	Matthew  S Gast, “802.11 Wireless Networks : The Definitive Guide6.	Siva Ram Murthy C and Manoj BS “Adhoc Wireless Networks Architecture and Protocols “, Pearson Education,2008.

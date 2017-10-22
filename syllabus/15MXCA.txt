@@ -1,0 +1,23 @@
+<br/><b>INTRODUCTION:</b><br/> Overview of machine learning - related areas – applications - software tools.                                                         (3)
+<br/>
+<br/><b>PARAMETRIC REGRESSION:</b><br/> Linear regression - polynomial regression - locally weighted regression - numerical optimization - gradient descent- kernel methods.                                                                                                                                                         (7)
+<br/> 
+<br/><b>GENERATIVE LEARNING:</b><br/> Gaussian parameter estimation - maximum likelihood estimation - Bayesian estimation.                        (6)
+<br/>
+<br/><b>DISCRIMINATIVE LEARNING:</b><br/> Linear discrimination - logistic regression -  logit and logistic functions.                                             (5)
+<br/>
+<br/><b>NEURAL NETWORKS:</b><br/> The perceptron algorithm - multilayer perceptrons – backpropagation - nonlinear regression - multiclass discrimination - training procedures - localized network structure - dimensionality reduction interpretation - Support vector machines.   
+<br/>             (8)   
+<br/><b>GRAPHICAL AND SEQUENTIAL MODELS:</b><br/> Bayesian networks - conditional independence - Markov random fields - inference in graphical models - belief propagation - Markov models - hidden Markov models - decoding states from observations - learning HMM parameters.                                                                                                                                                                                            (8)
+<br/>
+<br/><b>DIMENSIONALITY REDUCTION:</b><br/> Feature selection - principal component analysis - linear discriminant analysis - factor analysis - independent component analysis - multidimensional scaling - manifold learning.                                                                                 (8)
+<br/>
+<br/>                                         Total L : 45 
+<br/>
+<br/><b>REFERENCES:</b><br/> 
+<br/>1.	Alpaydin E, “Machine Learning”, MIT Press, 2010. 
+<br/>2.	Bishop C, “Pattern Recognition and Machine Learning”, Springer, 2006. 
+<br/>3.	Duda R, Hart E and Stork D, “Pattern Classification”, Wiley-Interscience, 2000. 
+<br/>4.	Mitchell T, “Machine Learning”, McGraw-Hill, 2010. 
+<br/>5.	Hastie T, Tibshirani R and  Friedman J, “Elements of Statistical Learning”, Springer, 2001. 
+<br/><br/>

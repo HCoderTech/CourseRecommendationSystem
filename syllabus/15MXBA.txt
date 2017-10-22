@@ -1,0 +1,18 @@
+<br/><b>INTRODUCTION:</b><br/>  Data mining and web mining – web community and social network analysis – Evolution of social networks – Basic concept in social networks.	                                                                                                                                                    (5)
+<br/>
+<br/><b>SOCIAL NETWORK DATA AND REPRESENTATION:</b><br/>  Structural – composition - affiliation variables-modes-boundary specification and sampling- type of networks- measurement and collection – Notation for social network data - Review of graph theory - Data set- Tools - Pajek, Netdraw, UCInet.	                                                                                                                                     (9)
+<br/>
+<br/><b>STRUCTURAL PROPERTIES OF SOCIAL NETWORKS:</b><br/> Notions of centrality, cohesiveness of subgroups, roles and positions, block models - stochastic block models – Information diffusion – power law.                                                                                      (8) 
+<br/>
+<br/><b>WEB MINING:</b><br/> Web crawler – types of web crawler - Web search – Characteristic of Web data – types of web mining.                  (6)
+<br/>
+<br/><b>WEB CONTENT MINING:</b><br/> Web Content Mining<br/>
+<br/><b>WEB LINKAGE MINING:</b><br/> Hyperlinks- co-citation and bibliographic coupling- page rank and HITS algorithm – web  community discovery – web graph measurement and modeling- using link information for web page classification.                                            (8)
+<br/>                                         Total L : 45 
+<br/>
+<br/><b>REFERENCES:</b><br/>
+<br/>1.	Stanley Wasserman and Katherine Faust, “Social network analysis: methods and applications”, Cambridge University Press, 1999.
+<br/>2.	Guandong xu and Yanchun zhang, “Web mining and social networking: techniques”, “Springer Science and Business Media”, 2011.
+<br/>3.	Bing Liu, “Web Data Mining”, Springer, 2010.
+<br/>4.	Anthony Bonato, “A Course on Web Graphs”, Americal Mathematical Society, 2008.
+<br/><br/>

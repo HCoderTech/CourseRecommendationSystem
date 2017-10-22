@@ -1,0 +1,19 @@
+<br/><b>PROBABILISTIC ANALYSIS AND RANDOMIZED ALGORITHMS:</b><br/> The hiring problem – Indicator random variables – Randomized algorithms- Probabilistic analysis.									             (6)
+<br/>
+<br/><b>HEAP STRUCTURES:</b><br/> Binary trees - Min-max heaps – Deaps – Leftist heaps –Binomial heaps – Fibonacci heaps – Skew heaps - Lazy-binomial heaps.										             (9)
+<br/>
+<br/><b>SETS:</b><br/> Disjoint sets – Dynamic set operations – Van Emde Boas Trees. 					             (5)
+<br/>
+<br/><b>SEARCH TREES:</b><br/>  Red-black trees – AVL trees - Splay trees.						             (6)
+<br/>
+<br/><b>MULTIDIMENSIONAL STRUCTURES:</b><br/> Segment trees – k-d trees – Point Quad trees – MX-Quad trees – R-trees – TV trees.         (9)
+<br/>
+<br/><b>NP HARD AND NP COMPLETE PROBLEMS:</b><br/> Basic Concepts- Cooks theorem – NP Hard Graph Problems-Clique Decision problem, Node cover decision problem- NP Hard Scheduling Problems<br/>Total L : 45 
+<br/>           
+<br/><b>REFERENCES:</b><br/> 
+<br/>1.	Thomas H Cormen, Charles E Leiserson, Ronald L Rivest and Clifford Stein, “Introduction to Algorithms”, MIT Press, 2009.
+<br/>2.	Horowitz E, Sahni S and Rajasekaran S, “Fundamentals of Computer Algorithms”, Galgotia Publications, New Delhi, 2010.
+<br/>3.	Subrahmanian V S, “Principles of Multimedia Database Systems”, Morgan Kaufman, USA, 2001.
+<br/>4.	Mark Allen Weiss, “Data structures and Algorithm Analysis in C++”, Pearson Education, New Delhi, 2006.
+<br/>
+<br/><br/>

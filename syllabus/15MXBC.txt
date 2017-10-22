@@ -1,0 +1,20 @@
+<br/><b>INTRODUCTION:</b><br/> Web and Semantic Web –  Examples –  Semantic Web Technologies – A Layered Approach                             (5)
+<br/>
+<br/><b>DESCRIBING STRUCTURED WEB DOCUMENTS USING XML:</b><br/>  Markup languages – The XML Language – Structuring – XML Schema – Namespaces   										             (8)
+<br/>
+<br/><b>DESCRIBING WEB RESOURCES IN RDF:</b><br/> RDF – Basic Ideas –  RDF<br/>
+<br/><b>WEB ONTOLOGY LANGUAGE:</b><br/>   Knowledge representation – OWL Introduction  – The OWL Language  –  Examples  – OWL in OWL  –  Future Extensions – Programming with JENA.							             (9)
+<br/>
+<br/><b>TOPIC MAPS:</b><br/> Concepts – Topic – Name – Occurrence – Association – Topic Map – XTM Syntax – Conformance.                       (4)
+<br/>
+<br/><b>LOGIC AND INFERENCE:</b><br/>   Monotonic Rules –  Syntax – Examples  –  Semantics  – Nonmonotonic Rules<br/>										                                            (5) 
+<br/>                                                                   
+<br/><b>PUBLISHING ON THE SEMANTIC WEB & APPLICATIONS:</b><br/> Open and Linked data, Semantic Web Vocabularies.  Semantic Web vs. Web2.0 – Applications<br/>             Total L : 45 
+<br/>
+<br/>
+<br/><b>REFERENCES:</b><br/>
+<br/>1. Grigoris Antoniou and Frank van Harmelen,  “A Semantic Web Primer”, The MIT Press Cambridge, Massachusetts London,          England,  2008.
+<br/>2. John Hebeler, Matthew Fisher, Andrew Perez-Lopez  and Ryan Blace “Semantic Web Programming”, Wiley, 2009.
+<br/>3. Pascal Hitzler, Markus Krotzsch and Sebastian Rudolph “Foundations of Semantic Web Technologies”, CRC Press, 2010.
+<br/>4. John Davies, Dieter Fensel and Frank van Harmelen, “Towards the Semantic Web”, Wiley, 2003.
+<br/><br/>

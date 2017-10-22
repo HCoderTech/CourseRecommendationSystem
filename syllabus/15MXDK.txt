@@ -1,0 +1,16 @@
+<br/><b>INTRODUCTION:</b><br/> Basics of Game Creation – Creating an engine for games – Graphics in games.                                                 (10)                                                                     
+<br/>
+<br/><b>USER INTERFACE:</b><br/> User Interface programming and Input Devices - Integrating sound and music -Animating the background – Building a game.		                                                                                                                                                            (10)                                    
+<br/>
+<br/><b>FRAMEWORK:</b><br/> POP – Animation – Simulating Physics – Critters – Sprites – Collisions – Listeners – Shooters and Bullet.            (10)
+<br/>
+<br/><b>DIMENSIONAL VIEW:</b><br/>  2D Games – Concepts - 3D Games – Models – Shapes – Transformation – Translation – Scaling – Shooting Games.	                     									                            (10)                                                                                                                                                                    
+<br/>
+<br/><b>GAMES DEVELOPMENT TOOLS:</b><br/> Milk Shape - 3D Studio Max – MAYA - Light wave 3D-Game Maker 8.1-Code <br/>
+<br/>         Total L: 45 
+<br/>
+<br/><b>REFERENCES:</b><br/> 
+<br/>1.	Rudy Rucker, “Software Engineering and Computer Games”, Addison Wesley, 2011.
+<br/>2.	Kenneth C. Finney, “Advanced 3D Game Programming All in One”, Premier Press, 2011.
+<br/>3.	Mike McShaffry, David Rez Graham, “Game Coding Complete”, Course Technology PTR,  2012.
+<br/><br/>
