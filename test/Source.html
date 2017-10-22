@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<title>ToolTips Example</title>
+		<style type="text/css">
+		.tooltip {
+			border-bottom: 1px dotted #000000; color: #000000; outline: none;
+			cursor: help; text-decoration: none;
+			position: relative;
+		}
+		.tooltip span {
+			margin-left: -999em;
+			position: absolute;
+		}
+		.tooltip:hover span {
+			border-radius: 5px 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; 
+			box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1); -webkit-box-shadow: 5px 5px rgba(0, 0, 0, 0.1); -moz-box-shadow: 5px 5px rgba(0, 0, 0, 0.1);
+			font-family: Calibri, Tahoma, Geneva, sans-serif;
+			position: absolute;
+			top: 2em; 
+			margin-left: 0; width: 250px;
+			left:-4em;
+		}
+		.tooltip:hover img {
+			border: 0; margin: -10px 0 0 -55px;
+			float: left; position: absolute;
+		}
+		.tooltip:hover em {
+			font-family: Candara, Tahoma, Geneva, sans-serif; font-size: 1.2em; font-weight: bold;
+			display: block; padding: 0.2em 0 0.6em 0;
+		}
+		.custom { padding: 0.5em 0.8em 0.8em 2em; }
+		* html a:hover { background: transparent; }
+		.info { background: #9FDAEE; border: 1px solid #2BB0D7;	}
+		
+		</style>
+	</head>
+	<body>
+		<h1>Examples of CSS ToolTips!</h1>
+		<p>Here are some examples of a 
+		<a class="tooltip" href="#">Information
+		<span class="custom info">
+		<img src="Info.png" alt="Information" height="48" width="48" />
+		<em>Information</em>
+		This is just an example of what you can do using a CSS tooltip,
+		feel free to get creative and produce your own!
+		This is just an example of what you can do using a CSS tooltip,
+		feel free to get creative and produce your own!
+		</span>
+		</a>
+	</body>
+</html>
