@@ -1,0 +1,14 @@
+#sidebar{
+background-color:#9470D2;
+text-align:center;	
+position:absolute;
+height:90%;
+width:200px;
+}
+#framecontent{
+	position:absolute;
+	background:#A4A0D2;
+	width:84%;
+	height:89%;
+	left:210px;
+}

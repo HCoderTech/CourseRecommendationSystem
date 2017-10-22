@@ -1,0 +1,1 @@
+select coursetaken.GradePoints,coursetaken.RealCourseCode,ccourses.CourseTitle from coursetaken,ccourses where coursetaken.RealCourseCode in (select Prerequisite from prerequirement where CourseCode='15MXDM') and coursetaken.RollNo='15MX05' and ccourses.CourseCode=coursetaken.RealCourseCode

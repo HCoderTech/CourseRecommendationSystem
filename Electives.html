@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<!-- saved from url=(0039)http://localhost/MiniProject/electives# -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link href="./Electives_files/seekbar.css" rel="stylesheet" type="text/css">
+<link href="./css/elective.css" rel="stylesheet" type="text/css">
+<script src="./Electives_files/seekbar.js.download" type="text/javascript"></script>
+<style>
+
+</style>
+<title>Select Electives</title>
+</head>
+<body onload="">
+
+<div id="myModal" class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+   <div class="modal-header">
+    <span class="close" style="display: none;">×</span>
+    <center><h2>User Specific Settings</h2></center>
+  </div>
+  <div class="modal-body">
+  <table>
+ <tbody><tr onclick="updateValue()">
+ <td><b>Theory</b></td>
+ <td style="width:100%;"><div class="seekbar" data-seekbar-value="51"><div class="seekbar_btn" style="left: 51%;"></div><div class="seekbar_bg" style="width: 51%;"></div></div></td>
+ <td><div class="seekbarvalues">51</div></td>
+	</tr>		
+<tr onclick="updateValue()">
+ <td><b>Programming</b></td>
+ <td><div class="seekbar" data-seekbar-value="14"><div class="seekbar_btn" style="left: 14%;"></div><div class="seekbar_bg" style="width: 14%;"></div></div></td>
+ <td><div class="seekbarvalues">14</div></td>
+	</tr>	
+<tr onclick="updateValue()">
+ <td><b>Placement<b></b></b></td>
+ <td><div class="seekbar" data-seekbar-value="1"><div class="seekbar_btn" style="left: 1%;"></div><div class="seekbar_bg" style="width: 1%;"></div></div></td>
+ <td><div class="seekbarvalues">1</div></td>
+	</tr>	
+<tr onclick="updateValue()">
+ <td><b> Diversity </b></td>
+ <td><div class="seekbar" data-seekbar-value="26"><div class="seekbar_btn" style="left: 26%;"></div><div class="seekbar_bg" style="width: 26%;"></div></div></td>
+ <td><div class="seekbarvalues">26</div></td>
+	</tr>	
+<tr onclick="updateValue()">
+ <td><b>Problematic</b></td>
+ <td><div class="seekbar" data-seekbar-value="21"><div class="seekbar_btn" style="left: 21%;"></div><div class="seekbar_bg" style="width: 21%;"></div></div></td>
+ <td><div class="seekbarvalues">21</div></td>
+	</tr>		
+ </tbody></table>
+ <br>
+ <center><input class="button" id="save" type="submit" value="Save Settings" onclick="saveSettings();getCoursesbyUserRollNo();"></center>
+  </div>
+  <div class="modal-footer">
+    <h3>Set your preferences to get better results.</h3>
+  </div>
+  </div>
+
+</div>
+
+
+
+
+
+
+<ul>
+  <li id="logo"><img src="./Electives_files/logo.jpg" style="float:left;height:100%;width:100px;"></li>
+  
+  <li class="dropdown">
+    <a href="javascript:void(0)" class="dropbtn">Hewitt</a>
+    <div class="dropdown-content">
+      <a href="http://localhost/MiniProject/electives#" onclick="showSettings()">Settings</a>
+      <a href="http://localhost/MiniProject/electives#">Help</a>
+      <a href="http://localhost/MiniProject/logout">Logout</a>
+    </div>
+  </li>
+  <li><a href="http://localhost/MiniProject/electives#news">Profile</a></li>
+  <li><a href="http://localhost/MiniProject/electives#home">Home</a></li>
+  
+</ul>
+<div id="coursecontent"><div class="floated_img" style="border:1px solid black;"><h4 style="width:60%;"> WIRELESS NETWORKS</h4><h4>(15MXAB)</h4><img src="./Electives_files/placeholder.png" alt="Some image" class="subimage"><span>This subject deal with these topics. It will give a brief inside on these topics</span><div><b>Rating :</b> 3.562/5 (90 votes)</div><br><input class="button" id="save" type="submit" value="Syllabus" onclick="" style="width:40%;margin-bottom:5px;"><input class="button" id="save" type="submit" value="Select" onclick="" style="width:40%;margin-bottom:5px;"><br><input class="button" id="save" type="submit" value="View Reviews" onclick="">	</div><div class="floated_img" style="border:1px solid black;"><h4 style="width:60%;">SECURITY IN COMPUTING</h4><h4>(15MXAC)</h4><img src="./Electives_files/placeholder.png" alt="Some image" class="subimage"><span>This subject deal with these topics. It will give a brief inside on these topics</span><div><b>Rating :</b> 3.925/5 (15 votes)</div><br><input class="button" id="save" type="submit" value="Syllabus" onclick="" style="width:40%;margin-bottom:5px;"><input class="button" id="save" type="submit" value="Select" onclick="" style="width:40%;margin-bottom:5px;"><br><input class="button" id="save" type="submit" value="View Reviews" onclick="">	</div><div class="floated_img" style="border:1px solid black;"><h4 style="width:60%;">ARTIFICIAL INTELLIGENCE</h4><h4>(15MXCC)</h4><img src="./Electives_files/placeholder.png" alt="Some image" class="subimage"><span>This subject deal with these topics. It will give a brief inside on these topics</span><div><b>Rating :</b> 3.587/5 (11 votes)</div><br><input class="button" id="save" type="submit" value="Syllabus" onclick="" style="width:40%;margin-bottom:5px;"><input class="button" id="save" type="submit" value="Select" onclick="" style="width:40%;margin-bottom:5px;"><br><input class="button" id="save" type="submit" value="View Reviews" onclick="">	</div><div class="floated_img" style="border:1px solid black;"><h4 style="width:60%;">MULTIDIMENSIONAL DATA STRUCTURES</h4><h4>(15MXDD)</h4><img src="./Electives_files/placeholder.png" alt="Some image" class="subimage"><span>This subject deal with these topics. It will give a brief inside on these topics</span><div><b>Rating :</b> 4.729/5 (33 votes)</div><br><input class="button" id="save" type="submit" value="Syllabus" onclick="" style="width:40%;margin-bottom:5px;"><input class="button" id="save" type="submit" value="Select" onclick="" style="width:40%;margin-bottom:5px;"><br><input class="button" id="save" type="submit" value="View Reviews" onclick="">	</div><div class="floated_img" style="border:1px solid black;"><h4 style="width:60%;">NETWORK MANAGEMENT</h4><h4>(15MXAA)</h4><img src="./Electives_files/placeholder.png" alt="Some image" class="subimage"><span>This subject deal with these topics. It will give a brief inside on these topics</span><div><b>Rating :</b> 3.962/5 (55 votes)</div><br><input class="button" id="save" type="submit" value="Syllabus" onclick="" style="width:40%;margin-bottom:5px;"><input class="button" id="save" type="submit" value="Select" onclick="" style="width:40%;margin-bottom:5px;"><br><input class="button" id="save" type="submit" value="View Reviews" onclick="">	</div><div class="floated_img" style="border:1px solid black;"><h4 style="width:60%;">SOCIAL NETWORKING  AND WEB MINING</h4><h4>(15MXBA)</h4><img src="./Electives_files/placeholder.png" alt="Some image" class="subimage"><span>This subject deal with these topics. It will give a brief inside on these topics</span><div><b>Rating :</b> 4.388/5 (32 votes)</div><br><input class="button" id="save" type="submit" value="Syllabus" onclick="" style="width:40%;margin-bottom:5px;"><input class="button" id="save" type="submit" value="Select" onclick="" style="width:40%;margin-bottom:5px;"><br><input class="button" id="save" type="submit" value="View Reviews" onclick="">	</div><div class="floated_img" style="border:1px solid black;"><h4 style="width:60%;">MOBILE COMPUTING</h4><h4>(15MXAF)</h4><img src="./Electives_files/placeholder.png" alt="Some image" class="subimage"><span>This subject deal with these topics. It will give a brief inside on these topics</span><div><b>Rating :</b> 4.413/5 (45 votes)</div><br><input class="button" id="save" type="submit" value="Syllabus" onclick="" style="width:40%;margin-bottom:5px;"><input class="button" id="save" type="submit" value="Select" onclick="" style="width:40%;margin-bottom:5px;"><br><input class="button" id="save" type="submit" value="View Reviews" onclick="">	</div><div class="floated_img" style="border:1px solid black;"><h4 style="width:60%;">XML AND ITS APPLICATIONS</h4><h4>(15MXBB)</h4><img src="./Electives_files/placeholder.png" alt="Some image" class="subimage"><span>This subject deal with these topics. It will give a brief inside on these topics</span><div><b>Rating :</b> 4.849/5 (71 votes)</div><br><input class="button" id="save" type="submit" value="Syllabus" onclick="" style="width:40%;margin-bottom:5px;"><input class="button" id="save" type="submit" value="Select" onclick="" style="width:40%;margin-bottom:5px;"><br><input class="button" id="save" type="submit" value="View Reviews" onclick="">	</div><div class="floated_img" style="border:1px solid black;"><h4 style="width:60%;">SEMANTIC WEB TECHNOLOGIES</h4><h4>(15MXBC)</h4><img src="./Electives_files/placeholder.png" alt="Some image" class="subimage"><span>This subject deal with these topics. It will give a brief inside on these topics</span><div><b>Rating :</b> 4.580/5 (70 votes)</div><br><input class="button" id="save" type="submit" value="Syllabus" onclick="" style="width:40%;margin-bottom:5px;"><input class="button" id="save" type="submit" value="Select" onclick="" style="width:40%;margin-bottom:5px;"><br><input class="button" id="save" type="submit" value="View Reviews" onclick="">	</div><div class="floated_img" style="border:1px solid black;"><h4 style="width:60%;">SOFT COMPUTING</h4><h4>(15MXCB)</h4><img src="./Electives_files/placeholder.png" alt="Some image" class="subimage"><span>This subject deal with these topics. It will give a brief inside on these topics</span><div><b>Rating :</b> 4.030/5 (99 votes)</div><br><input class="button" id="save" type="submit" value="Syllabus" onclick="" style="width:40%;margin-bottom:5px;"><input class="button" id="save" type="submit" value="Select" onclick="" style="width:40%;margin-bottom:5px;"><br><input class="button" id="save" type="submit" value="View Reviews" onclick="">	</div><div class="floated_img" style="border:1px solid black;"><h4 style="width:60%;">ADVANCED DATABASE TECHNOLOGY</h4><h4>(15MXDA)</h4><img src="./Electives_files/placeholder.png" alt="Some image" class="subimage"><span>This subject deal with these topics. It will give a brief inside on these topics</span><div><b>Rating :</b> 3.770/5 (17 votes)</div><br><input class="button" id="save" type="submit" value="Syllabus" onclick="" style="width:40%;margin-bottom:5px;"><input class="button" id="save" type="submit" value="Select" onclick="" style="width:40%;margin-bottom:5px;"><br><input class="button" id="save" type="submit" value="View Reviews" onclick="">	</div><div class="floated_img" style="border:1px solid black;"><h4 style="width:60%;">MULTI-CORE PROGRAMMING</h4><h4>(15MXDE)</h4><img src="./Electives_files/placeholder.png" alt="Some image" class="subimage"><span>This subject deal with these topics. It will give a brief inside on these topics</span><div><b>Rating :</b> 3.567/5 (22 votes)</div><br><input class="button" id="save" type="submit" value="Syllabus" onclick="" style="width:40%;margin-bottom:5px;"><input class="button" id="save" type="submit" value="Select" onclick="" style="width:40%;margin-bottom:5px;"><br><input class="button" id="save" type="submit" value="View Reviews" onclick="">	</div></div>
+
+<script>
+// Get the modal
+
+var modal = document.getElementById('myModal');
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+span.style.display="none";
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() {
+    modal.style.display = "none";
+}
+
+// When the user clicks anywhere outside of the modal, close it
+/*window.onclick = function(event) {
+    if (event.target == modal) {
+        modal.style.display = "none";
+    }
+}*/
+
+function checkActive(){
+	}
+function showSettings(){
+	modal.style.display = "block";
+	var span = document.getElementsByClassName("close")[0];
+	span.style.display="inline";
+
+}
+function updateValue(){
+	var sbv=document.getElementsByClassName('seekbarvalues');
+	var sb=document.getElementsByClassName('seekbar');
+	document.getElementById("save").value = "Save Settings";
+	var span = document.getElementsByClassName("close")[0];
+span.style.display="none";
+	for(var i=0;i<sb.length;i++){
+		sbv[i].innerHTML=sb[i].getAttribute('data-seekbar-value');
+	}
+
+}
+
+function saveSettings(){
+	var sbv=document.getElementsByClassName('seekbarvalues');
+	var v1=sbv[0].innerHTML;
+	var v2=sbv[1].innerHTML;
+	var v3=sbv[2].innerHTML;
+	var v4=sbv[3].innerHTML;
+	var v5=sbv[4].innerHTML;
+	 var xhttp = new XMLHttpRequest();
+     xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+     document.getElementById("save").value = "Saved";
+	 		 var span = document.getElementsByClassName("close")[0];
+	span.style.display="inline";
+	    }
+  };
+  var val="15MX13";
+ xhttp.open("GET", "savesetting?v1="+v1+"&v2="+v2+"&v3="+v3+"&v4="+v4+"&v5="+v5+"&RollNo="+val, true);
+  xhttp.send(null);
+}
+
+function getCoursesbyUserRollNo(){
+	var username="15MX13";
+	 var xhttp = new XMLHttpRequest();
+     xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+	var course=JSON.parse(xhttp.responseText);
+	var htmlcontent="";
+	for (var i = 0; i < course.courses.length; i++) {
+    var counter = course.courses[i];
+   htmlcontent=htmlcontent+"<div class=\"floated_img\" style=\"border:1px solid black;\"><h4 style=\"width:60%;\">"+counter["CourseTitle"]+"</h4><h4>("+counter["CourseCode"]+")</h4><img src=\"images/placeholder.png\" alt=\"Some image\" class=\"subimage\">";
+	htmlcontent=htmlcontent+"<span>This subject deal with these topics. It will give a brief inside on these topics</span>"	;										
+	htmlcontent=htmlcontent+"<div><b>Rating :</b> "+counter["Rating"]+"/5 ("+counter["TotalVotes"]+" votes)</div><br/>";
+	htmlcontent=htmlcontent+"<input class=\"button\" id=\"save\" type=\"submit\" value=\"Syllabus\" onclick=\"\" style=\"width:40%;margin-bottom:5px;\">";
+	htmlcontent=htmlcontent+"<input class=\"button\" id=\"save\" type=\"submit\" value=\"Select\" onclick=\"\" style=\"width:40%;margin-bottom:5px;\"><br/>";
+	htmlcontent=htmlcontent+"<input class=\"button\" id=\"save\" type=\"submit\" value=\"View Reviews\" onclick=\"\">";
+    htmlcontent=htmlcontent+"	</div>";
+	}
+	document.getElementById("coursecontent").innerHTML=htmlcontent;
+	}
+	 }
+  xhttp.open("GET", "selectbyUS?username="+username, true);
+  xhttp.send(null);
+}
+</script>
+</body></html>

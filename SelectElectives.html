@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<!-- saved from url=(0038)http://localhost/MiniProject/electives -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link href="./SelectElectives_files/seekbar.css" rel="stylesheet" type="text/css">
+<link href="./css/elective.css" rel="stylesheet" type="text/css">
+<script src="./SelectElectives_files/seekbar.js.download" type="text/javascript"></script>
+<title>Select Electives</title>
+</head>
+<body onload="getCoursesbyUserRollNo()">
+
+<div id="myModal" class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+   <div class="modal-header">
+    <span class="close" style="display: none;">×</span>
+    <center><h2>User Specific Settings</h2></center>
+  </div>
+  <div class="modal-body">
+  <table>
+ <tbody><tr onclick="updateValue()">
+ <td><b>Theory</b></td>
+ <td style="width:100%;"><div class="seekbar" data-seekbar-value="96"><div class="seekbar_btn" style="left: 96%;"></div><div class="seekbar_bg" style="width: 96%;"></div></div></td>
+ <td><div class="seekbarvalues">96</div></td>
+	</tr>		
+<tr onclick="updateValue()">
+ <td><b>Programming</b></td>
+ <td><div class="seekbar" data-seekbar-value="37"><div class="seekbar_btn" style="left: 37%;"></div><div class="seekbar_bg" style="width: 37%;"></div></div></td>
+ <td><div class="seekbarvalues">37</div></td>
+	</tr>	
+<tr onclick="updateValue()">
+ <td><b>Placement<b></b></b></td>
+ <td><div class="seekbar" data-seekbar-value="84"><div class="seekbar_btn" style="left: 84%;"></div><div class="seekbar_bg" style="width: 84%;"></div></div></td>
+ <td><div class="seekbarvalues">84</div></td>
+	</tr>	
+<tr onclick="updateValue()">
+ <td><b> Diversity </b></td>
+ <td><div class="seekbar" data-seekbar-value="52"><div class="seekbar_btn" style="left: 52%;"></div><div class="seekbar_bg" style="width: 52%;"></div></div></td>
+ <td><div class="seekbarvalues">52</div></td>
+	</tr>	
+<tr onclick="updateValue()">
+ <td><b>Problematic</b></td>
+ <td><div class="seekbar" data-seekbar-value="50"><div class="seekbar_btn" style="left: 50%;"></div><div class="seekbar_bg" style="width: 50%;"></div></div></td>
+ <td><div class="seekbarvalues">50</div></td>
+	</tr>		
+ </tbody></table>
+ <br>
+ <center><input class="button" id="save" type="submit" value="Save Settings" onclick="saveSettings();getCoursesbyUserRollNo();"></center>
+  </div>
+  <div class="modal-footer">
+    <h3>Set your preferences to get better results.</h3>
+  </div>
+  </div>
+
+</div>
+
+
+
+
+
+
+<ul>
+  <li id="logo"><img src="./SelectElectives_files/logo.jpg" style="float:left;height:100%;width:100px;"></li>
+  
+  <li class="dropdown">
+    <a href="javascript:void(0)" class="dropbtn">Augustine</a>
+    <div class="dropdown-content">
+      <a href="http://localhost/MiniProject/electives#" onclick="showSettings()">Settings</a>
+      <a href="http://localhost/MiniProject/electives#">Help</a>
+      <a href="http://localhost/MiniProject/logout">Logout</a>
+    </div>
+  </li>
+  <li><a href="http://localhost/MiniProject/electives#news">Profile</a></li>
+  <li><a href="http://localhost/MiniProject/electives#home" onclick="location.href=&#39;dashboard&#39;;">Home</a></li>
+  
+</ul>
+<br>
+<div id="selection" style="float: right">Get By: <select id="selector" onchange="myselection()">
+  <option value="0">User Preference</option>
+  <option value="1">Similar Users</option>
+</select>
+</div>
+<div id="coursecontent"><div class="floated_img"><center><h4 style="width:60%;display:inline;">MULTIDIMENSIONAL DATA STRUCTURES</h4><br><h4 style="width:60%;display:inline;">(15MXDD)</h4><br><img src="./SelectElectives_files/15MXDD.png" alt="Some image" class="subimage"><div><b>Rating :</b> 4.729/5 (33 votes)</div><br><span class="myButton" id="myButton">Syllabus</span><span class="myButton" id="myButton">Select</span><span class="myButton" id="myButton">View Reviews</span>	</center></div><div class="floated_img"><center><h4 style="width:60%;display:inline;">ARTIFICIAL INTELLIGENCE</h4><br><h4 style="width:60%;display:inline;">(15MXCC)</h4><br><img src="./SelectElectives_files/15MXCC.png" alt="Some image" class="subimage"><div><b>Rating :</b> 3.587/5 (11 votes)</div><br><span class="myButton" id="myButton">Syllabus</span><span class="myButton" id="myButton">Select</span><span class="myButton" id="myButton">View Reviews</span>	</center></div><div class="floated_img"><center><h4 style="width:60%;display:inline;">NETWORK MANAGEMENT</h4><br><h4 style="width:60%;display:inline;">(15MXAA)</h4><br><img src="./SelectElectives_files/15MXAA.png" alt="Some image" class="subimage"><div><b>Rating :</b> 3.962/5 (55 votes)</div><br><span class="myButton" id="myButton">Syllabus</span><span class="myButton" id="myButton">Select</span><span class="myButton" id="myButton">View Reviews</span>	</center></div><div class="floated_img"><center><h4 style="width:60%;display:inline;">DATA ANALYTICS</h4><br><h4 style="width:60%;display:inline;">(15MXDM)</h4><br><img src="./SelectElectives_files/15MXDM.png" alt="Some image" class="subimage"><div><b>Rating :</b> 4.320/5 (21 votes)</div><br><span class="myButton" id="myButton">Syllabus</span><span class="myButton" id="myButton">Select</span><span class="myButton" id="myButton">View Reviews</span>	</center></div><div class="floated_img"><center><h4 style="width:60%;display:inline;"> WIRELESS NETWORKS</h4><br><h4 style="width:60%;display:inline;">(15MXAB)</h4><br><img src="./SelectElectives_files/15MXAB.png" alt="Some image" class="subimage"><div><b>Rating :</b> 3.562/5 (90 votes)</div><br><span class="myButton" id="myButton">Syllabus</span><span class="myButton" id="myButton">Select</span><span class="myButton" id="myButton">View Reviews</span>	</center></div><div class="floated_img"><center><h4 style="width:60%;display:inline;">SOFT COMPUTING</h4><br><h4 style="width:60%;display:inline;">(15MXCB)</h4><br><img src="./SelectElectives_files/15MXCB.png" alt="Some image" class="subimage"><div><b>Rating :</b> 4.030/5 (99 votes)</div><br><span class="myButton" id="myButton">Syllabus</span><span class="myButton" id="myButton">Select</span><span class="myButton" id="myButton">View Reviews</span>	</center></div><div class="floated_img"><center><h4 style="width:60%;display:inline;">SECURITY IN COMPUTING</h4><br><h4 style="width:60%;display:inline;">(15MXAC)</h4><br><img src="./SelectElectives_files/15MXAC.png" alt="Some image" class="subimage"><div><b>Rating :</b> 3.925/5 (15 votes)</div><br><span class="myButton" id="myButton">Syllabus</span><span class="myButton" id="myButton">Select</span><span class="myButton" id="myButton">View Reviews</span>	</center></div><div class="floated_img"><center><h4 style="width:60%;display:inline;">ADVANCED DATABASE TECHNOLOGY</h4><br><h4 style="width:60%;display:inline;">(15MXDA)</h4><br><img src="./SelectElectives_files/15MXDA.png" alt="Some image" class="subimage"><div><b>Rating :</b> 3.770/5 (17 votes)</div><br><span class="myButton" id="myButton">Syllabus</span><span class="myButton" id="myButton">Select</span><span class="myButton" id="myButton">View Reviews</span>	</center></div><div class="floated_img"><center><h4 style="width:60%;display:inline;">BIG DATA ANALYTICS</h4><br><h4 style="width:60%;display:inline;">(15MXDL)</h4><br><img src="./SelectElectives_files/15MXDL.png" alt="Some image" class="subimage"><div><b>Rating :</b> 4.420/5 (31 votes)</div><br><span class="myButton" id="myButton">Syllabus</span><span class="myButton" id="myButton">Select</span><span class="myButton" id="myButton">View Reviews</span>	</center></div><div class="floated_img"><center><h4 style="width:60%;display:inline;">MACHINE LEARNING</h4><br><h4 style="width:60%;display:inline;">(15MXCA)</h4><br><img src="./SelectElectives_files/15MXCA.png" alt="Some image" class="subimage"><div><b>Rating :</b> 4.854/5 (86 votes)</div><br><span class="myButton" id="myButton">Syllabus</span><span class="myButton" id="myButton">Select</span><span class="myButton" id="myButton">View Reviews</span>	</center></div><div class="floated_img"><center><h4 style="width:60%;display:inline;">NUMERICAL METHODS</h4><br><h4 style="width:60%;display:inline;">(15MXGA)</h4><br><img src="./SelectElectives_files/15MXGA.png" alt="Some image" class="subimage"><div><b>Rating :</b> 4.440/5 (23 votes)</div><br><span class="myButton" id="myButton">Syllabus</span><span class="myButton" id="myButton">Select</span><span class="myButton" id="myButton">View Reviews</span>	</center></div><div class="floated_img"><center><h4 style="width:60%;display:inline;">TEXT MINING</h4><br><h4 style="width:60%;display:inline;">(15MXFA)</h4><br><img src="./SelectElectives_files/15MXFA.png" alt="Some image" class="subimage"><div><b>Rating :</b> 4.300/5 (6 votes)</div><br><span class="myButton" id="myButton">Syllabus</span><span class="myButton" id="myButton">Select</span><span class="myButton" id="myButton">View Reviews</span>	</center></div></div>
+
+<script>
+// Get the modal
+
+var modal = document.getElementById('myModal');
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+span.style.display="none";
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() {
+    modal.style.display = "none";
+}
+
+// When the user clicks anywhere outside of the modal, close it
+/*window.onclick = function(event) {
+    if (event.target == modal) {
+        modal.style.display = "none";
+    }
+}*/
+
+function checkActive(){
+	}
+function showSettings(){
+	modal.style.display = "block";
+	var span = document.getElementsByClassName("close")[0];
+	span.style.display="inline";
+
+}
+function updateValue(){
+	var sbv=document.getElementsByClassName('seekbarvalues');
+	var sb=document.getElementsByClassName('seekbar');
+	document.getElementById("save").value = "Save Settings";
+	var span = document.getElementsByClassName("close")[0];
+span.style.display="none";
+	for(var i=0;i<sb.length;i++){
+		sbv[i].innerHTML=sb[i].getAttribute('data-seekbar-value');
+	}
+
+}
+
+function saveSettings(){
+	var sbv=document.getElementsByClassName('seekbarvalues');
+	var v1=sbv[0].innerHTML;
+	var v2=sbv[1].innerHTML;
+	var v3=sbv[2].innerHTML;
+	var v4=sbv[3].innerHTML;
+	var v5=sbv[4].innerHTML;
+	 var xhttp = new XMLHttpRequest();
+     xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+     document.getElementById("save").value = "Saved";
+	 		 var span = document.getElementsByClassName("close")[0];
+	span.style.display="inline";
+	    }
+  };
+  var val="15MX05";
+ xhttp.open("GET", "savesetting?v1="+v1+"&v2="+v2+"&v3="+v3+"&v4="+v4+"&v5="+v5+"&RollNo="+val, true);
+  xhttp.send(null);
+}
+function myselection(){
+	var s=document.getElementById("selector").value;
+	
+	if(s=="0")
+		getCoursesbyUserRollNo();
+	else
+		getCoursesbyUserCollaboration();
+}
+function getCoursesbyUserRollNo(){
+	var username="15MX05";
+	 var xhttp = new XMLHttpRequest();
+     xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+	var course=JSON.parse(xhttp.responseText);
+	var htmlcontent="";
+	for (var i = 0; i < course.courses.length; i++) {
+    var counter = course.courses[i];
+	if(counter["CourseTitle"].length<=24)
+	counter["CourseTitle"]=counter["CourseTitle"]+"<br/>";
+   htmlcontent=htmlcontent+"<div class=\"floated_img\"><center><h4 style=\"width:60%;display:inline;\">"+counter["CourseTitle"]+"</h4><br/><h4 style=\"width:60%;display:inline;\">("+counter["CourseCode"]+")</h4><br/><img src=\"images/"+counter["CourseCode"]+".png\" alt=\"Some image\" class=\"subimage\">";
+	//htmlcontent=htmlcontent+"<span>This subject deal with these topics. It will give a brief inside on these topics</span>"	;										
+	htmlcontent=htmlcontent+"<div><b>Rating :</b> "+counter["Rating"]+"/5 ("+counter["TotalVotes"]+" votes)</div><br/>";
+	htmlcontent=htmlcontent+"<span class=\"myButton\" id=\"myButton\">Syllabus</span>";
+	htmlcontent=htmlcontent+"<span class=\"myButton\" id=\"myButton\">Select</span>";
+	htmlcontent=htmlcontent+"<span class=\"myButton\" id=\"myButton\">View Reviews</span>";
+    htmlcontent=htmlcontent+"	</center></div>";
+	}
+	document.getElementById("coursecontent").innerHTML=htmlcontent;
+	}
+	 }
+  xhttp.open("GET", "selectbyUS?username="+username, true);
+  xhttp.send(null);
+}
+function getCoursesbyUserCollaboration(){
+	var username="15MX05";
+	 var xhttp = new XMLHttpRequest();
+     xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+	var course=JSON.parse(xhttp.responseText);
+	var htmlcontent="";
+	for (var i = 0; i < course.courses.length; i++) {
+    var counter = course.courses[i];
+   htmlcontent=htmlcontent+"<div class=\"floated_img\"><center><h4 style=\"width:60%;display:inline;\">"+counter["CourseTitle"]+"</h4><br/><h4 style=\"width:60%;display:inline;\">("+counter["CourseCode"]+")</h4><br/><img src=\"images/"+counter["CourseCode"]+".png\" alt=\"Some image\" class=\"subimage\">";
+	//htmlcontent=htmlcontent+"<span>This subject deal with these topics. It will give a brief inside on these topics</span>"	;										
+	htmlcontent=htmlcontent+"<div><b>Rating :</b> "+counter["Rating"]+"/5 ("+counter["TotalVotes"]+" votes)</div><br/>";
+	htmlcontent=htmlcontent+"<div><b>Expected Grade :</b> "+counter["ExpGrade"]+"</div><br/>";
+	htmlcontent=htmlcontent+"<span class=\"myButton\" id=\"myButton\">Syllabus</span>";
+	htmlcontent=htmlcontent+"<span class=\"myButton\" id=\"myButton\">Select</span>";
+	htmlcontent=htmlcontent+"<span class=\"myButton\" id=\"myButton\">Reviews</span>";
+    htmlcontent=htmlcontent+"	</center></div>";
+	}
+	document.getElementById("coursecontent").innerHTML=htmlcontent;
+	}
+	 }
+  xhttp.open("GET", "selectbyUC?username="+username, true);
+  xhttp.send(null);
+}
+
+</script>
+</body></html>

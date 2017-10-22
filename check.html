@@ -1,0 +1,44 @@
+<style>
+a.tooltip {outline:none; }
+a.tooltip strong {line-height:30px;}
+a.tooltip:hover {text-decoration:none;} 
+a.tooltip span {
+    z-index:10;display:none; padding:14px 20px;
+    margin-top:60px; margin-left:-160px;
+    width:300px; line-height:16px;
+}
+a.tooltip:hover span{
+    display:inline; position:absolute; 
+    border:2px solid #FFF;  color:#EEE;
+    background:#333 url(cssttp/css-tooltip-gradient-bg.png) repeat-x 0 0;
+}
+.callout {z-index:20;position:absolute;border:0;top:-14px;left:120px;}
+    
+/*CSS3 extras*/
+a.tooltip span
+{
+    border-radius:2px;        
+    box-shadow: 0px 0px 8px 4px #666;
+    /*opacity: 0.8;*/
+}
+</style>
+<!--First tooltip-->
+<a href="#" class="tooltip">
+    Tooltip
+    <span>
+        <img class="callout" src="cssttp/callout_black.gif" />
+        <strong>Most Light-weight Tooltip</strong><br />
+        This is the easy-to-use Tooltip driven purely by CSS.
+    </span>
+</a>
+
+<!--Second tooltip-->
+<a href="#" class="tooltip">
+    <img src="/tooltip/css-tooltip-image.gif" />
+    <span>
+        <img class="callout" src="cssttp/callout_black.gif" />
+        <img src="/tooltip/src/tooltips-cd2.jpg" style="float:right;" />
+        <strong>CSS only Tooltip</strong><br />
+        Pure CSS popup tooltips with clean semantic XHTML.
+    </span>
+</a>

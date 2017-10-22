@@ -1,0 +1,49 @@
+/*
+ * Main
+ */
+.seekbar{
+    margin: 10px;
+    padding: 0;
+	left:10%;
+    width: 80%;
+    height: 8px;
+    border: 1px solid #000;
+    position: relative;
+    cursor: pointer;
+    border-radius: 1.1em;
+}
+
+.seekbar_btn,
+.seekbar_bg{
+    padding: 0;
+    border-radius: 1.1em;
+    position: absolute;
+    left: 0;
+}
+
+/* 
+ * Seekber Circle Button
+ */
+
+.seekbar_btn{
+    margin: -5px 0 0 -5px;
+    height: 18px;
+    width: 18px;
+    background: #5c5c5c;    
+    z-index: 2;
+}
+
+.seekbar_btn:hover,
+.seekbar_btn:active{
+    background: #bbb;
+}
+
+/* 
+ * Seekber Background
+ */
+.seekbar_bg{
+    margin: 0;
+    background: #3e779d;
+    height: 100%;
+    z-index: 1;
+}
